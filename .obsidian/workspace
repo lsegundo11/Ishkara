@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "161a904835374115",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec5acc60b7fd8495",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Characters/PC/Raith.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1bd4f91795da8f59",
+    "type": "split",
+    "children": [
+      {
+        "id": "95a28d3d7809bc7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cc6ca1118a0d833",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0282031e881be2c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#BBEG",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262
+  },
+  "right": {
+    "id": "aacc79ab6df312d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa63f2f7211e8997",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dda3e6e7d52d022",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Characters/PC/Raith.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "0d3cb572924aebe9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2f6f5361b44b81ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Characters/PC/Raith.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5
+  },
+  "active": "ec5acc60b7fd8495",
+  "lastOpenFiles": [
+    "Sessions/Sessions 0-100/Session 77.md",
+    "Story/Diary/1-100/Day 66.md",
+    "Sessions/Sessions 0-100/Session 76.md",
+    "Characters/NPC/Allies/Eldeth Feldrun.md",
+    "Sessions/Sessions 0-100/Session 74.md",
+    "Sessions/Sessions 0-100/Session 75.md",
+    "Characters/PC/Theoc Shadowsbane.md",
+    "Characters/PC/Urimus.md",
+    "Characters/PC/Raith.md",
+    "Characters/PC/Ikros.md"
+  ]
+}

@@ -1,0 +1,5 @@
+# Zhentarim
+## Description
+The Zhentarim, previously known as the Black Network, was a mercenary company, and greater mercantile organization in [[Sciana]] who, over their 200 years of existence, has had a storied history as a cadre of self-serving thieves, spies, assassins and malevolent wizards, who for a time, were indentured by their leaders to serve dark gods [[Bane]] and [[Cyric]]. Over the decades, the organization experienced several leaps and bounds in terms of successes, but also major misfortune, particularly for their historical strongholds around the Moonsea. As of 1489 DR the Zhentarim was headquartered in the Western Heartlands, at Darkhold Castle, nestled in the valley of the same name.
+
+The Zhentarim are unknowingly helping the [[Bregan D'aerthe]] to consolodate control of the region in [[Luskan]]. 

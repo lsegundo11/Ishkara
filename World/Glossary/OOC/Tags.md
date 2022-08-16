@@ -1,0 +1,10 @@
+- BBEG : the Big Bad!
+- corrupted : used to mark a corrupted character.
+- date/YYYY-MM-DD : The date of the Session
+- day/##: the current campaign day
+- session/## : the session # for the evening
+- Status : The current status of a character, known or unknown
+    - Status/Alive : the character is alive!
+    - Status/Dead : the character is dead :(
+    - Status/Public : ????
+    - Status/Public/Unknown : ?????

@@ -1,0 +1,4 @@
+- Raith now has it in his possesion
+- gave it to caldazar
+- lit it on fire with FireBolt
+- thing is now dead
