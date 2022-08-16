@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/PC/Raith.md",
+            "file": "Sessions/Sessions 0-100/Session 78.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Raith.md",
+                "file": "Sessions/Sessions 0-100/Session 78.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Raith.md"
+                "file": "Sessions/Sessions 0-100/Session 78.md"
               }
             }
           }
@@ -110,15 +110,15 @@
   },
   "active": "ec5acc60b7fd8495",
   "lastOpenFiles": [
-    "Sessions/Sessions 0-100/Session 77.md",
     "Story/Diary/1-100/Day 66.md",
+    "Sessions/Sessions 0-100/Session 78.md",
+    "Sessions/Sessions 0-100/Session 77.md",
+    "Characters/PC/Raith.md",
     "Sessions/Sessions 0-100/Session 76.md",
     "Characters/NPC/Allies/Eldeth Feldrun.md",
     "Sessions/Sessions 0-100/Session 74.md",
     "Sessions/Sessions 0-100/Session 75.md",
     "Characters/PC/Theoc Shadowsbane.md",
-    "Characters/PC/Urimus.md",
-    "Characters/PC/Raith.md",
-    "Characters/PC/Ikros.md"
+    "Characters/PC/Urimus.md"
   ]
 }

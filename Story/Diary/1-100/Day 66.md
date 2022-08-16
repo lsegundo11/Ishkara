@@ -35,7 +35,7 @@ much technical difficulty
         - couldn't get the heart
 - continuing on
     - caldezar noticed some weird stuff with [[Eldeth Feldrun]]
-    - party taking a short
+    - party taking a short rest
 
 ## EVENING
 
