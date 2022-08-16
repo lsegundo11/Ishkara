@@ -1,6 +1,6 @@
 # {{Title}}
-Item Catagory, Item Rarity
+Item Category, Item Rarity
 ___
-Description
+## Description
 
-*Notes:*
+## Notes:

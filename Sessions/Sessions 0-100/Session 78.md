@@ -37,6 +37,7 @@ PC's:
     4. [ ] [[Eldeth Feldrun]] can lead the party to [[Gracklstugh]] to find a way out of [[The Underdark]]
     5. [ ] [[Eldeth Feldrun]] was captured and made a deal with [[Jarlaxle Baenre]] to bring the team team to [[Gracklstugh]]
     6. [ ] the way out at [[Gracklstugh]] is shut!
+    7. [ ] The blank book is a map of an unknown cave system in the Underdark.
 2. [ ] There is probably something to the this telepathic grey ooze "Flesh for the Faceless Lord" thing!
 
 ## Fantastic Locations

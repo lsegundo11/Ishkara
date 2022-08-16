@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sessions/Sessions 0-100/Session 78.md",
+            "file": "Items/Diary of Jarlaxle Baenre.md",
             "mode": "source",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#BBEG",
+                "query": "blank",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Sessions 0-100/Session 78.md",
+                "file": "Items/Diary of Jarlaxle Baenre.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Sessions 0-100/Session 78.md"
+                "file": "Items/Diary of Jarlaxle Baenre.md"
               }
             }
           }
@@ -110,15 +110,15 @@
   },
   "active": "ec5acc60b7fd8495",
   "lastOpenFiles": [
-    "Story/Diary/1-100/Day 66.md",
+    "Z.Templates/Item-Template.md",
+    "Items/Diary of Jarlaxle Baenre.md",
     "Sessions/Sessions 0-100/Session 78.md",
-    "Sessions/Sessions 0-100/Session 77.md",
-    "Characters/PC/Raith.md",
-    "Sessions/Sessions 0-100/Session 76.md",
-    "Characters/NPC/Allies/Eldeth Feldrun.md",
-    "Sessions/Sessions 0-100/Session 74.md",
-    "Sessions/Sessions 0-100/Session 75.md",
-    "Characters/PC/Theoc Shadowsbane.md",
-    "Characters/PC/Urimus.md"
+    "Sessions/Sessions 0-100/Session 48.md",
+    "Sessions/Discovered Secrets.md",
+    "Sessions/Sessions 0-100/Session 69.md",
+    "Sessions/Sessions 0-100/Session 68.md",
+    "Items/Dawnbringer.md",
+    "Items/Belt of Dwarven Kind.md",
+    "Story/Diary/1-100/Day 66.md"
   ]
 }
