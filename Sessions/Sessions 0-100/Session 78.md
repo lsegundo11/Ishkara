@@ -22,9 +22,11 @@ PC's:
 1. [[S01.02-The Maiden, The Mother, The Crone]]
     1. [[S01.02.02-Into Darkness]]
         1. S01.02.02ER01 - Random 1
-        2. [[S01.02.02E01 - The Silken Paths Encounter]]
+        2. S01.02.02ER02 - Random 2
+        3. S01.02.02ER03 - Random 3
+        4. [[S01.02.02E01 - The Silken Paths Encounter]]
     3. [[S01.02.04-Gracklstugh]]
-        1. [[Eldeth Feldrun]] will return at the end of the [[S01.02.02E02 - The Hook Horror Hunt]] and offer to lead the party to [[Gauntlgrym]] and out of [[The Underdark]] but will instead take them to [[Gracklstugh]]
+        1. [[Eldeth Feldrun]] will return at the end of the [[S01.02.02E02 - The Hook Horror Hunt]] and offer to lead the party to [[Gauntlgrym]] and out of [[The Underdark]] but will instead take them to [[Gracklstugh]] in a round about way through the 
 
 ## Secret and Clues
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Items/Diary of Jarlaxle Baenre.md",
+            "file": "Sessions/Sessions 0-100/Session 78.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Diary of Jarlaxle Baenre.md",
+                "file": "Sessions/Sessions 0-100/Session 78.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Diary of Jarlaxle Baenre.md"
+                "file": "Sessions/Sessions 0-100/Session 78.md"
               }
             }
           }
@@ -110,6 +110,8 @@
   },
   "active": "ec5acc60b7fd8495",
   "lastOpenFiles": [
+    "Items/Gulthias Tree Clipping.md",
+    "Items/Dick of Klarg.md",
     "Z.Templates/Item-Template.md",
     "Items/Diary of Jarlaxle Baenre.md",
     "Sessions/Sessions 0-100/Session 78.md",
@@ -117,8 +119,6 @@
     "Sessions/Discovered Secrets.md",
     "Sessions/Sessions 0-100/Session 69.md",
     "Sessions/Sessions 0-100/Session 68.md",
-    "Items/Dawnbringer.md",
-    "Items/Belt of Dwarven Kind.md",
-    "Story/Diary/1-100/Day 66.md"
+    "Items/Dawnbringer.md"
   ]
 }
