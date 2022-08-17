@@ -4,13 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "ec5acc60b7fd8495",
+        "id": "00499a8606fda045",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Story/Diary/1-100/Day 67.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "2128155edda6be1a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Sessions/Sessions 0-100/Session 78.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -40,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "blank",
+                "query": "gracklstugh",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Sessions 0-100/Session 78.md",
+                "file": "Story/Diary/1-100/Day 67.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Sessions 0-100/Session 78.md"
+                "file": "Story/Diary/1-100/Day 67.md"
               }
             }
           }
@@ -108,17 +120,17 @@
     "direction": "horizontal",
     "width": 234.5
   },
-  "active": "ec5acc60b7fd8495",
+  "active": "00499a8606fda045",
   "lastOpenFiles": [
-    "Items/Gulthias Tree Clipping.md",
-    "Items/Dick of Klarg.md",
-    "Z.Templates/Item-Template.md",
-    "Items/Diary of Jarlaxle Baenre.md",
+    "Story/Diary/1-100/Day 66.md",
+    "Story/Diary/1-100/Day 60.md",
+    "Story/Diary/1-100/Day 63.md",
+    "Story/Diary/1-100/Day 65.md",
+    "Sessions/Sessions 0-100/Session 57.md",
+    "Characters/PC/Caldazar.md",
     "Sessions/Sessions 0-100/Session 78.md",
-    "Sessions/Sessions 0-100/Session 48.md",
-    "Sessions/Discovered Secrets.md",
-    "Sessions/Sessions 0-100/Session 69.md",
-    "Sessions/Sessions 0-100/Session 68.md",
-    "Items/Dawnbringer.md"
+    "Items/Belt of Dwarven Kind.md",
+    "Items/Gulthias Tree Clipping.md",
+    "Items/Dick of Klarg.md"
   ]
 }

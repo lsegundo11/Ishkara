@@ -29,6 +29,7 @@ much technical difficulty
 - end of session
 
 ## DUSK
+### [[Session 77]]
 - fought the stone giant
     - [[Caldazar]] is a fucking badass and killed it
     - raith got 5 toes, cask of ale bronze gong, 2 gems of 100gp, dented steel shield, giant drinking horn, small bag of salt
