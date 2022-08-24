@@ -22,6 +22,12 @@
 ## DUSK
 ### [[Session 79]]
 - Fighting the Beholder Zombie!!
+- Theoc found one of the mimics
+- Raith is gonna loot the spider carcas
+    - took the web sac!
+- and now the Spectators are on the scene
+- Caldazar was missing left and right
+- Beholder Zombie, Mimics, Spectators are all on the scene!
 
 ## EVENING
 

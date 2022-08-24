@@ -14,6 +14,18 @@
             "source": true
           }
         }
+      },
+      {
+        "id": "c8a400c09c70d7ce",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sessions/Sessions 0-100/Session 79.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -111,9 +123,9 @@
   "active": "2128155edda6be1a",
   "lastOpenFiles": [
     "Sessions/Sessions 0-100/Session 79.md",
+    "Story/Diary/1-100/Day 67.md",
     "Items/Diary of Jarlaxle Baenre.md",
     "Sessions/Sessions 0-100/Session 78.md",
-    "Story/Diary/1-100/Day 67.md",
     "Story/Diary/1-100/Day 66.md",
     "Story/Diary/1-100/Day 60.md",
     "Story/Diary/1-100/Day 63.md",
