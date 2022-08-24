@@ -1,7 +1,9 @@
 # Narrative - Day 67
 
 ## MORNING
-Traveling
+- Traveling
+    - headed toward NeverLight Grove
+    - think they are headed towards [[Gauntlgrym]]
 ## AFTERNOON
 ### [[Session 78]]
 - [[S01.02.02E01 - The Silken Paths Encounter]]
@@ -18,6 +20,8 @@ Traveling
     - end session
 
 ## DUSK
+### [[Session 79]]
+- Fighting the Beholder Zombie!!
 
 ## EVENING
 
