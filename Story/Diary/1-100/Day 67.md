@@ -30,6 +30,10 @@
 - Beholder Zombie, Mimics, Spectators are all on the scene!
 
 ## EVENING
+### [[Session 80]]
+- Beholder Zombie, Mimics, Spectators are all on the scene!
+    - lest get into it!
+    - level up after this fight!
 
 ## MIDNIGHT
 
