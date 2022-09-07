@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gracklstugh",
+                "query": "tag:#Status/Compromised",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,15 +122,15 @@
   },
   "active": "fe5d6a48efd8eb07",
   "lastOpenFiles": [
+    "Characters/PC/Kholwin.md",
     "Sessions/Sessions 0-100/Session 80.md",
     "Story/Diary/1-100/Day 67.md",
+    "Characters/NPC/Neutral/Corbyn Forgebow.md",
     "Sessions/Sessions 0-100/Session 79.md",
     "Items/Diary of Jarlaxle Baenre.md",
     "Sessions/Sessions 0-100/Session 78.md",
     "Story/Diary/1-100/Day 66.md",
     "Story/Diary/1-100/Day 60.md",
-    "Story/Diary/1-100/Day 63.md",
-    "Story/Diary/1-100/Day 65.md",
-    "Sessions/Sessions 0-100/Session 57.md"
+    "Story/Diary/1-100/Day 63.md"
   ]
 }

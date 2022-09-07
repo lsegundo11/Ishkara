@@ -23,7 +23,7 @@
 ### [[Session 79]]
 - Fighting the Beholder Zombie!!
 - Theoc found one of the mimics
-- Raith is gonna loot the spider carcas
+- Raith is gonna loot the spider carcass
     - took the web sac!
 - and now the Spectators are on the scene
 - Caldazar was missing left and right
@@ -34,6 +34,13 @@
 - Beholder Zombie, Mimics, Spectators are all on the scene!
     - lest get into it!
     - level up after this fight!
+    - the mimics are giving it as good as they are getting!
+    - dudes are getting there asses kicked....its bad
+    - ikros is down!
+        - saved by Kholwin
+    - managed to kill everything!
+    - Level up!
+        - the party is now at level 8
 
 ## MIDNIGHT
 

@@ -1,4 +1,4 @@
-# Kholwin - #Status/Alive #Corrupted 
+# Kholwin - #Status/Alive
 
 - AC: 12
 - HP: 38
