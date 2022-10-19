@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e7b250054ff7da02",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Sessions/Sessions 0-100/Session 82.md",
-            "mode": "source",
-            "source": true
+        "id": "774feb32fcba94e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92e388a107c2afe1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Sessions 0-100/Session 82.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -108,17 +116,20 @@
     "direction": "horizontal",
     "width": 234.5
   },
-  "active": "e7b250054ff7da02",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "92e388a107c2afe1",
   "lastOpenFiles": [
-    "Sessions/Discovered Secrets.md",
+    "Characters/NPC/Villains/Reidoth.md",
+    "Characters/NPC/Villains/Nyphyn Arkanen.md",
+    "Characters/NPC/Villains/Yvonnel Baenre.md",
     "Sessions/Sessions 0-100/Session 82.md",
+    "Characters/NPC/Toblen Stonehill.md",
+    "Characters/NPC/Villains/Nezznar.md",
+    "Sessions/Discovered Secrets.md",
     "Characters/NPC/Villains/Jarlaxle Baenre.md",
     "Story/Diary/1-100/Day 68.md",
-    "Story/Plots/S01-The Baenre Conspiracy/S01-The Baenre Conspiracy.md",
-    "Characters/PC/El Condor.md",
-    "Sessions/Sessions 0-100/Session 81.md",
-    "Story/Diary/1-100/Day 67.md",
-    "Sessions/Sessions 0-100/Session 80.md",
-    "Characters/PC/Kholwin.md"
+    "Story/Plots/S01-The Baenre Conspiracy/S01-The Baenre Conspiracy.md"
   ]
 }

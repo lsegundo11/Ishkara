@@ -40,7 +40,7 @@
         - saved by Kholwin
     - managed to kill everything!
     - Level up!
-        - the party is now at level 8
+        - the party is now at level 8 
 
 ## MIDNIGHT
 
