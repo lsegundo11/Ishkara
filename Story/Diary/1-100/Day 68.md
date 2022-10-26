@@ -16,6 +16,10 @@
         - the brothers were in fact killed for their meat.
         - this was part of the original horde [[Jarlaxle Baenre]] broke to the surface with to make a foothold in [[Luskan]]
 ## AFTERNOON
+### [[Session 83]]
+- the party is headed to [[Neverlight Grove]]
+    - will find horror there.....
+- traveling to [[Neverlight Grove]]
 
 ## DUSK
 

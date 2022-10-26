@@ -1,14 +1,13 @@
-# Session 82
-#session/82
+# Session 83
+#session/83
 
-#date/2022-10-17
+#date/2022-10-25
 ## Characters
 
 - [ ]  Review the characters
 
 PC's:
 - [[Caldazar]]
-    - out of commission. has been kidnapped/killed by [[Jarlaxle Baenre]]
 - [[El Condor]]
 - [[Kholwin]]
 - [[Raith]]
@@ -19,17 +18,14 @@ PC's:
 - Raef doing the recap
 - the party is in:
     - [[The Silken Paths]] ([[S01.02.02E01 - The Silken Paths Encounter]])
-        - Made a deal with with YukYuk and Spiderbait to kill some Giant Spiders
-        - got more than the bargained with!
-        - Beholder Zombie
+        - now headed to [[Neverlight Grove]]
+        - [[Eldeth Feldrun]] is leading the way
+
 
 ## Scenes
 1. [[S01.02-The Maiden, The Mother, The Crone]]
     1. [[S01.02.02-Into Darkness]]
-        1. S01.02.02ER01 - Random 1
-        2. S01.02.02ER02 - Random 2
-        3. S01.02.02ER03 - Random 3
-        4. [[S01.02.02E01 - The Silken Paths Encounter]]
+        1. the [[Neverlight Grove]] encounters - see out of the abyss27
     3. [[S01.02.04-Gracklstugh]]
         1. [[Eldeth Feldrun]] will return at the end of the [[S01.02.02E02 - The Hook Horror Hunt]] and offer to lead the party to [[Gauntlgrym]] and out of [[The Underdark]] but will instead take them to [[Gracklstugh]] in a round about way through the 
 
