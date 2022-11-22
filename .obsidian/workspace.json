@@ -14,6 +14,24 @@
               "type": "markdown",
               "state": {
                 "file": "Story/Diary/1-100/Day 70.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "51b76ced1284e9a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e605bfb8291bc4ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Sessions 0-100/Session 84.md",
                 "mode": "preview",
                 "source": true
               }
@@ -77,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/Diary/1-100/Day 70.md",
+                "file": "Sessions/Sessions 0-100/Session 84.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/Diary/1-100/Day 70.md"
+                "file": "Sessions/Sessions 0-100/Session 84.md"
               }
             }
           }
@@ -116,20 +134,17 @@
     "direction": "horizontal",
     "width": 234.5
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "5251244e9b7e5d83",
+  "active": "e605bfb8291bc4ea",
   "lastOpenFiles": [
-    "Sessions/Sessions 0-100/Session 83.md",
     "Story/Diary/1-100/Day 70.md",
+    "Sessions/Sessions 0-100/Session 84.md",
+    "Sessions/Sessions 0-100/Session 83.md",
     "Story/Diary/1-100/Day 69.md",
     "Story/Diary/1-100/Day 68.md",
     "Sessions/Sessions 0-100/Session 82.md",
     "Characters/NPC/Villains/Reidoth.md",
     "Characters/NPC/Villains/Nyphyn Arkanen.md",
     "Characters/NPC/Villains/Yvonnel Baenre.md",
-    "Characters/NPC/Toblen Stonehill.md",
-    "Characters/NPC/Villains/Nezznar.md"
+    "Characters/NPC/Toblen Stonehill.md"
   ]
 }
