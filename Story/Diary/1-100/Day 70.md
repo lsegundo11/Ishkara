@@ -12,8 +12,11 @@
 - grick is dea
 - umber hulk out of the water!
     - hulk is kicking serious ass
+    - and the hulk is down.
+    - this fight got them an intro to the sovereigns
 
 ## DUSK
+### [[Session 85]]
 
 ## EVENING
 
