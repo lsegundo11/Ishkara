@@ -17,6 +17,12 @@
 
 ## DUSK
 ### [[Session 85]]
+- they killed all things in the entry way to [[Neverlight Grove]]
+    - working on harvesting!
+- moving around talking to the sovereigns
+    - Phylo is weird
+    - Basidia is offering to help find [[Caldazar]]
+        - Basisdia is letting the party know that weird shit is going on with Phylo
 
 ## EVENING
 
