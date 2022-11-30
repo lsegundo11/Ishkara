@@ -32,7 +32,7 @@
               "type": "markdown",
               "state": {
                 "file": "Sessions/Sessions 0-100/Session 86.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Sessions 0-100/Session 86.md",
+                "file": "Story/Diary/1-100/Day 70.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Sessions 0-100/Session 86.md"
+                "file": "Story/Diary/1-100/Day 70.md"
               }
             }
           }
@@ -134,11 +134,11 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "954648cc84ff5a91",
+  "active": "5251244e9b7e5d83",
   "lastOpenFiles": [
-    "Sessions/Sessions 0-100/Session 85.md",
     "Sessions/Sessions 0-100/Session 86.md",
     "Story/Diary/1-100/Day 70.md",
+    "Sessions/Sessions 0-100/Session 85.md",
     "Sessions/Sessions 0-100/Session 84.md",
     "Sessions/Sessions 0-100/Session 83.md",
     "Story/Diary/1-100/Day 69.md",

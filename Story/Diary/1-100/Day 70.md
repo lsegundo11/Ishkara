@@ -23,6 +23,12 @@
     - Phylo is weird
     - Basidia is offering to help find [[Caldazar]]
         - Basisdia is letting the party know that weird shit is going on with Phylo
+### [[Session 86]]
+   - the found [[Caldazar]]
+        - he ded
+        - killed by [[Jeggred Baenre]]
+            - bled out from cuts to the major arteries
+    - the Chuul are now upon the Group!
 
 ## EVENING
 

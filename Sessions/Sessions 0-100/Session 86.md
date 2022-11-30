@@ -77,5 +77,6 @@ PC's:
 
 This is part of a broader move/coalition with Lolth. Lolth is pissed (really pissed) about [[Jarlaxle Baenre]]'s deal with [[Mammon]]. She has recruited other Devils to try and end the partnership.
 # Session notes
+- Raith wants to leave the underdark....now.....
 
 # Post Session notes
