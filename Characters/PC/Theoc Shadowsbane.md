@@ -25,6 +25,8 @@
 Common, Deep Speech, Druidic, Elvish, Orc
 
 ## Weapons and Attacks
+- Ruskie Two-ski
+    - hammer and sickle
 
 ___
 # Basic Info

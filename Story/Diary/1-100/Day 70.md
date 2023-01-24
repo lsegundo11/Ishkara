@@ -31,7 +31,9 @@
     - the Chuul are now upon the Group!
 
 ## EVENING
-
+### [[Session 87]]
+- the chuul are attacking!
+    - 
 ## MIDNIGHT
 
 ## PRE-DAWN
