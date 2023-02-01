@@ -39,9 +39,10 @@ PC's:
     4. [x] [[Eldeth Feldrun]] says she can lead the party to [[Gauntlgrym]] to find a way out of [[The Underdark]]
     5. [ ] [[Eldeth Feldrun]] was captured and made a deal with [[Jarlaxle Baenre]] to bring the team team to [[Gracklstugh]]
     6. [ ] the way out at [[Gracklstugh]] is shut!
-    7. [ ] The blank book is a map of [[The Underdark]]
-    8. [ ] one of the sovereigns in [[Neverlight Grove]] will mention the [[Diary of Jarlaxle Baenre|Blank Book]]
-    9. [x] [[Jarlaxle Baenre]] and a horde of invaders from [[The Underdark]] killed [[El Condor]]'s family as part of a hunting raid on their way to [[Luskan]]
+    7. [ ] The blank book is a map of [[The Underdark]] and [[Jarlaxle Baenre]]'s diary (one of the drow in the [[Neverlight Grove]] will tell the party that in a death throw )
+        1. [ ] the party will need to find a way to ready the diary
+    8. one of the sovereigns in [[Neverlight Grove]] will mention the [[Diary of Jarlaxle Baenre|Blank Book]]
+    9. [[Jarlaxle Baenre]] and a horde of invaders from [[The Underdark]] killed [[El Condor]]'s family as part of a hunting raid on their way to [[Luskan]]
 2. [ ] There is probably something to the this telepathic grey ooze "Flesh for the Faceless Lord" thing!
 
 ## Fantastic Locations
