@@ -29,6 +29,10 @@
         - killed by [[Jeggred Baenre]]
             - bled out from cuts to the major arteries
     - the Chuul are now upon the Group!
+    - the fight rages on 
+    - all enemies are dead except a Drow Elite warrior
+        - he has prepped himself for a suicide stand
+        - has said a prayer to [[Mammon]] and has let slip that he is unhappy with the drow matriarchy
 
 ## EVENING
 ### [[Session 87]]

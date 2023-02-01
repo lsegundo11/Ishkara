@@ -13,8 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Sessions 0-100/Session 87.md",
+                "file": "Story/Diary/1-100/Day 70.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "13982fc2d02af7a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1840a7c9bf46d37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Sessions 0-100/Session 87.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -77,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Sessions 0-100/Session 87.md",
+                "file": "Story/Diary/1-100/Day 70.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Sessions 0-100/Session 87.md"
+                "file": "Story/Diary/1-100/Day 70.md"
               }
             }
           }
@@ -130,9 +148,9 @@
   },
   "active": "5251244e9b7e5d83",
   "lastOpenFiles": [
-    "Items/Diary of Jarlaxle Baenre.md",
     "Sessions/Sessions 0-100/Session 87.md",
     "Story/Diary/1-100/Day 70.md",
+    "Items/Diary of Jarlaxle Baenre.md",
     "World/Places/Vestal/Ishkara/Sciana/The Sword Cost/Luskan/Luskan.md",
     "World/Places/Vestal/Ishkara/Sciana/The Sword Cost/NeverWinter/The Sleeping Dragon/The Sleeping Dragon.md",
     "World/Places/Vestal/Ishkara/Sciana/The Sword Cost/NeverWinter/NeverWinter.md",
