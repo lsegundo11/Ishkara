@@ -4,37 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3d085a6bb4b38732",
+        "id": "323fe93d41f097aa",
         "type": "tabs",
         "children": [
           {
-            "id": "5251244e9b7e5d83",
+            "id": "63620eb29cc22b17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Story/Diary/1-100/Day 70.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "13982fc2d02af7a1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b1840a7c9bf46d37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Sessions 0-100/Session 87.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/Diary/1-100/Day 70.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Story/Diary/1-100/Day 70.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,17 +121,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5251244e9b7e5d83",
+  "active": "63620eb29cc22b17",
   "lastOpenFiles": [
-    "Sessions/Sessions 0-100/Session 87.md",
     "Story/Diary/1-100/Day 70.md",
+    "World/Places/Vestal/Ishkara/Sciana/The Sword Cost/Wave Echo Cave/Wave Echo Cave.md",
+    "Items/LightBringer.md",
+    "Story/Diary/1-100/Day 68.md",
+    "Story/Diary/1-100/Day 69.md",
+    "Sessions/Sessions 0-100/Sesssion 88.md",
+    "Sessions/Sessions 0-100/Session 87.md",
     "Items/Diary of Jarlaxle Baenre.md",
     "World/Places/Vestal/Ishkara/Sciana/The Sword Cost/Luskan/Luskan.md",
-    "World/Places/Vestal/Ishkara/Sciana/The Sword Cost/NeverWinter/The Sleeping Dragon/The Sleeping Dragon.md",
-    "World/Places/Vestal/Ishkara/Sciana/The Sword Cost/NeverWinter/NeverWinter.md",
-    "World/Places/Vestal/Ishkara/Sciana/The Sword Cost/Thundertree/Thundertree.md",
-    "World/Places/Vestal/Ishkara/Sciana/The Sword Cost/Cragmaw/Cragmaw Castle.md",
-    "World/Places/Vestal/Ishkara/Sciana/other thing/Waterdeep.md",
-    "World/Places/Vestal/Ishkara/Sciana/Sciana.md"
+    "World/Places/Vestal/Ishkara/Sciana/The Sword Cost/NeverWinter/The Sleeping Dragon/The Sleeping Dragon.md"
   ]
 }
