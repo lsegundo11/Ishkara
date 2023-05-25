@@ -11,4 +11,4 @@ using the magic requires 6 sessions of attunement and is based in some pretty ev
 ## Notes:
 it is currnently blank and unreadable. Attunement will reveal its contents
 
-Currently in the possession of [[El Condor]]'s bag of holding
+Currently in the possession of [[Raith]]

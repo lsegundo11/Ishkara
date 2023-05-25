@@ -8,11 +8,58 @@
         "type": "tabs",
         "children": [
           {
-            "id": "63620eb29cc22b17",
+            "id": "007785a39a2573a7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Story/Diary/1-100/Day 71.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "209e43caf8e068a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Story/Diary/1-100/Day 72.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3ca94fa1c4cc8fa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Diary of Jarlaxle Baenre.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "d63d978b2e7b0c15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82e44d8d44d25286",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Sessions 0-100/Session 90.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -52,6 +99,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "193478bb3db64c2b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -73,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Story/Diary/1-100/Day 72.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Story/Diary/1-100/Day 72.md"
+              }
             }
           }
         ],
@@ -121,17 +179,25 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "63620eb29cc22b17",
+  "active": "209e43caf8e068a2",
   "lastOpenFiles": [
+    "Story/Diary/1-100/Day 71.md",
+    "Story/Diary/1-100/Day 72.md",
+    "Sessions/Sessions 0-100/Session 90.md",
+    "Sessions/Sessions 0-100/Session 91.md",
+    "Sessions/Sessions 0-100/Session 89.md",
+    "Items/Diary of Jarlaxle Baenre.md",
+    "Story/Diary/1-100/Day 52.md",
+    "Story/Diary/1-100/Day 51.md",
+    "Story/Diary/1-100/Day 50.md",
+    "Story/Diary/1-100/Day 49.md",
+    "Story/Diary/1-100/Day 34.md",
     "Story/Diary/1-100/Day 70.md",
+    "Story/Diary/1-100/Day 69.md",
+    "Sessions/Sessions 0-100/Session 88.md",
     "World/Places/Vestal/Ishkara/Sciana/The Sword Cost/Wave Echo Cave/Wave Echo Cave.md",
     "Items/LightBringer.md",
     "Story/Diary/1-100/Day 68.md",
-    "Story/Diary/1-100/Day 69.md",
-    "Sessions/Sessions 0-100/Sesssion 88.md",
-    "Sessions/Sessions 0-100/Session 87.md",
-    "Items/Diary of Jarlaxle Baenre.md",
-    "World/Places/Vestal/Ishkara/Sciana/The Sword Cost/Luskan/Luskan.md",
-    "World/Places/Vestal/Ishkara/Sciana/The Sword Cost/NeverWinter/The Sleeping Dragon/The Sleeping Dragon.md"
+    "Sessions/Sessions 0-100/Session 87.md"
   ]
 }

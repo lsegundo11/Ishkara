@@ -38,15 +38,18 @@
      - has said a prayer to [[Mammon]] and has let slip that he is unhappy with the drow matriarchy
 
 ## MIDNIGHT
-### [[Sesssion 88]]
+### [[Session 88]]
 - the fight continues!
     - the drow is about half dead.
         - will fight then let slip about 
     - fighting the mushrooms
-- Kholwin calls bullshit on Raith
+- Kholwin calls bullshit on what the drow said
 
 ## PRE-DAWN
-
+### [[Session 89]]
+- The team defeated all the baddie. have captured the Drow and [[El Condor]] wants to "interrogate" him
+    - he will let slip about the diary. hopefully the team decided they need to find a way to decode it
+    - 
 ___
 # Notes
 Current marching order:
