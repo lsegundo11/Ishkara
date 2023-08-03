@@ -12,12 +12,14 @@
 
 
 ## AFTERNOON
-###[[Session 92]]
+### [[Session 92]]
 - captured the elite drow warrior 
-- more dorw from the south...time to fight...
-    - 
+- more drow from the south...time to fight...
 
 ## DUSK
+### [[Session 93]]
+been out for a while working...gotta relearn where we are
+- here...we....go
 
 ## EVENING
 
