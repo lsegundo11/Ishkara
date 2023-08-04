@@ -19,7 +19,10 @@
 ## DUSK
 ### [[Session 93]]
 been out for a while working...gotta relearn where we are
-- here...we....go
+- here...we....go....sorta
+- El Condor wishes to reiterate that he is def not into pegging....for real.
+- [[Raith]] reveals that he stole [[Kholwin]]'s potion of flying
+- acid vomit spewing mushrooms...
 
 ## EVENING
 

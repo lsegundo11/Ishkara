@@ -81,8 +81,9 @@ El condor was looking for his first fight there bumped into silday/gundren
 seemed like a better oppurtunity than fighting. gets to help folks like his bros; doens't get hit in the face
 
 # Notes:
-Goliath Barbarian
-not into pegging...like...at all
+- Goliath Barbarian
+- not into pegging...like...at all
+- Atheist
 
 Rage Color: e82626
 

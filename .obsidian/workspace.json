@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d63d978b2e7b0c15",
+        "id": "6b8d882a93974cc6",
         "type": "tabs",
         "children": [
           {
-            "id": "82e44d8d44d25286",
+            "id": "8a573f06b4f028c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -136,9 +136,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "82e44d8d44d25286",
+  "active": "8a573f06b4f028c1",
   "lastOpenFiles": [
+    "Characters/PC/El Condor.md",
     "Story/Diary/1-100/Day 72.md",
+    "Characters/PC/Raith.md",
+    "World/Politics/Order of the Gauntlet/Order of the Gauntlet.md",
     "Sessions/Sessions 0-100/Session 93.md",
     "Sessions/Sessions 0-100/Session 92.md",
     "Items/Diary of Jarlaxle Baenre.md",
