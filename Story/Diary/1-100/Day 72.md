@@ -23,7 +23,8 @@ been out for a while working...gotta relearn where we are
 - El Condor wishes to reiterate that he is def not into pegging....for real.
 - [[Raith]] reveals that he stole [[Kholwin]]'s potion of flying
 - acid vomit spewing mushrooms...
-
+- they have defeated [[yestabrod]]
+- long rest
 ## EVENING
 
 ## MIDNIGHT
