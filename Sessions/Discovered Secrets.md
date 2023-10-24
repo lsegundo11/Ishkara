@@ -10,3 +10,6 @@
 10. [x] [[Triel Baenre]] is on their tail heavy...
 11. [x] Yeenoghu wants kill [[Triel Baenre]] as she has tainted her self with [[Mammon]] and he's pissed she was killing gnolls. offers a deal...gives a map of [[The Underdark]] to the party in exchange for them heading out at [[Gauntlgrym]].
 12. [x] [[Jarlaxle Baenre]] and a horde of invaders from [[The Underdark]] killed [[El Condor]]'s family as part of a hunting raid on their way to [[Luskan]]
+13.  [x] [[Eldeth Feldrun]] says she can lead the party to [[Gauntlgrym]] to find a way out of [[The Underdark]]
+14. [x] The blank book is a map of [[The Underdark]] and [[Jarlaxle Baenre]]'s diary (one of the drow in the [[Neverlight Grove]] will tell the party that in a death throw )
+15. [x] one of the sovereigns in [[Neverlight Grove]] will mention the [[Diary of Jarlaxle Baenre|Blank Book]]

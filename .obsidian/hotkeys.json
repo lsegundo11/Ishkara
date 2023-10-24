@@ -14,7 +14,8 @@
         "Mod",
         "Shift"
       ],
-      "key": "["
+      "key": "S"
     }
-  ]
+  ],
+  "workspace:undo-close-pane": []
 }
