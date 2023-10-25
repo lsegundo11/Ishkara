@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "801126cb74d59dfb",
+        "id": "95b81ceac70a829a",
         "type": "tabs",
         "children": [
           {
-            "id": "f9dd87adb358f559",
+            "id": "92ba0a735e22fd88",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "session 95",
+                "query": "tag:#date/2023-10-24",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,11 +61,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 377.5026054382324
+    "width": 333.5
   },
   "right": {
     "id": "aacc79ab6df312d1",
@@ -109,12 +110,31 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "08a96ccd9bd3ebd0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c527cb2bd29a0bbf",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -128,14 +148,29 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f9dd87adb358f559",
+  "active": "92ba0a735e22fd88",
   "lastOpenFiles": [
-    "Sessions/Discovered Secrets.md",
     "Sessions/Sessions 0-100/Session 95.md",
+    "Characters/NPC/Allies/Esteban.md",
+    "Characters/NPC/Villains/Jarlaxle Baenre.md",
+    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/The Royal Pegasus.md",
+    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Gauntlgrym.md",
+    "Items/Diary of Jarlaxle Baenre.md",
+    "Characters/NPC/Neutral/Ozilius.md",
+    "Attachments/Esteban-portrait.jpg",
+    "Attachments/image0.jpg",
+    "Story/Diary/1-100/Day 83.md",
+    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym",
+    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06-Gauntlgrym.md",
+    "Story/Diary/1-100/Day 73.md",
+    "Characters/PC/Ikros.md",
+    "Story/Diary/1-100/Day 72.md",
+    "Characters/NPC/Villains/Jeggred Baenre.md",
+    "Characters/NPC/Villains/Triel Baenre.md",
+    "Sessions/Discovered Secrets.md",
     "World/Places/Vestal/Ishkara/Sciana/The Sword Cost/Wave Echo Cave/Wave Echo Cave.md",
     "Sessions/Sessions 0-100/Session 94.md",
     "Characters/Monsters/Yestabrod.md",
-    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06-Gauntlgrym.md",
     "Characters/PC/Raith.md",
     "World/Politics/Zhentarim/Zhentarim.md",
     "World/Politics/Order of the Gauntlet/Order of the Gauntlet.md",
@@ -143,18 +178,6 @@
     "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02-The Maiden, The Mother, The Crone.md",
     "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.04-Gracklstugh/S01.02.04-Gracklstugh.md",
     "Z.Templates/Plot-template.md",
-    "Z.Templates/Session_prep_template.md",
-    "Z.Templates/Spell-template.md",
-    "Z.Templates/World-build.md",
-    "World/Places/Vestal/Ishkara/Sciana/The Sword Cost/NeverWinter/NeverWinter.md",
-    "Characters/NPC/Villains/Jarlaxle Baenre.md",
-    "World/Politics/Bregan D'aerthe/Bregan D'aerthe.md",
-    "World/Government/0_Government.md",
-    "World/Government/The Council of Nine.md",
-    "World/Government/High Captains.md",
-    "World/Politics/Harpers/Harpers.md",
-    "Characters/PC/Caldazar.md",
-    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.05-Neverlight Groove/S01.02.05-Neverlight Groove.md",
-    "Story/Diary/1-100/Day 72.md"
+    "Z.Templates/Session_prep_template.md"
   ]
 }

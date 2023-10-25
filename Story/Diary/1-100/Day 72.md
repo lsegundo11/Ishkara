@@ -23,8 +23,13 @@ been out for a while working...gotta relearn where we are
 - El Condor wishes to reiterate that he is def not into pegging....for real.
 - [[Raith]] reveals that he stole [[Kholwin]]'s potion of flying
 - acid vomit spewing mushrooms...
+ ### [[Session 94]]
+ 
 - they have defeated [[Yestabrod]]
+
+### [[Session 95]]
 - long rest
+
 ## EVENING
 
 ## MIDNIGHT
@@ -34,7 +39,7 @@ been out for a while working...gotta relearn where we are
 ___
 # Notes
 Current marching order:
-1. Raith
+1. 
 
 TODOs:
 - [ ] 

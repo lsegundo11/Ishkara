@@ -20,5 +20,6 @@
   "promptDelete": true,
   "spellcheck": true,
   "showIndentGuide": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "propertiesInDocument": "hidden"
 }

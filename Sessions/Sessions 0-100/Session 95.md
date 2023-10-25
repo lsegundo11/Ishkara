@@ -29,6 +29,7 @@ PC's:
             2. will they head home
         3. state dinner with all the allies
             1. [[Kholwin]] and [[[Raith]] may have to decide on orders from their respective factions
+            2. An assassin will strike from [[Jarlaxle Baenre]] through a plant in [[Lords' Alliance]] faction at the dinner
 
 
 
@@ -37,13 +38,13 @@ PC's:
 *Check off when revealed.*
 
 1. [[S01-The Baenre Conspiracy]]
-    1. [ ] The [[Bregan D'aerthe]] plan to assassinate [[Dagult Neverember]]
-    2. [ ] The [[Bregan D'aerthe]] have been moving in and out of [[The Underdark]] to try and fix some of the issues [[Sidiqi Adventures|SA]] has been causing
-    3. [ ] [[Eldeth Feldrun]] has seen members of the [[Bregan D'aerthe]] in [[Gauntlgrym]] doing shady shit
-    5. [ ] [[Eldeth Feldrun]] was captured and made a deal with [[Jarlaxle Baenre]] to bring the team team to [[Gracklstugh]]
-    6. [ ] the way out at [[Gracklstugh]] is shut!
-    8. [ ] the party will need to find a way to ready the [[Jarlaxle Baenre]]'s diary
-    10. [ ] [[Jarlaxle Baenre]] and a horde of invaders from [[The Underdark]] killed [[El Condor]]'s family as part of a hunting raid on their way to [[Luskan]]
+    1. [ ] The [[Bregan D'aerthe]] plan to assassinate [[Dagult Neverember]] #SecretAndClues/S01-TheBaenreConspiracy
+    2. [ ] The [[Bregan D'aerthe]] have been moving in and out of [[The Underdark]] to try and fix some of the issues [[Sidiqi Adventures|SA]] has been causing #SecretAndClues/S01-TheBaenreConspiracy 
+    3. [ ] [[Eldeth Feldrun]] has seen members of the [[Bregan D'aerthe]] in [[Gauntlgrym]] doing shady shit #SecretAndClues/S01-TheBaenreConspiracy 
+    5. [ ] [[Eldeth Feldrun]] was captured and made a deal with [[Jarlaxle Baenre]] to bring the team team to [[Gracklstugh]] #SecretAndClues/S01-TheBaenreConspiracy 
+    6. [ ] the way out at [[Gracklstugh]] is shut! #SecretAndClues/S01-TheBaenreConspiracy 
+    8. [ ] the party will need to find a way to ready the [[Jarlaxle Baenre]]'s diary #SecretAndClues/S01-TheBaenreConspiracy 
+    10. [ ] [[Jarlaxle Baenre]] and a horde of invaders from [[The Underdark]] killed [[El Condor]]'s family as part of a hunting raid on their way to [[Luskan]] #SecretAndClues/S01-TheBaenreConspiracy
 
 
 
@@ -57,6 +58,7 @@ PC's:
 1. [[Darklake]]
 1. [[Gracklstugh]]
 1. [[Sloobludop]]
+2. [[Gauntlgrym]]
 
 ## NPCs
 
@@ -66,6 +68,13 @@ PC's:
     - [[Shoor Vandree]] - Hunting the party after the death of his sister [[Asha Vandree]]
     - [[Jorlan Duskryn]] - let the party go from [[Velkynvelve]]. there may be something more to that
     - [[Yeenoghu]] demon lord of the Gnolls. Pissed at [[House Baenre]] for making a deal with [[Mammon]]and at [[Triel Baenre]] for messing with his Gnolls. He wanted to take [[Triel Baenre]] but she was murdered by [[Caldazar]], which is why [[Yvonnel Baenre]] and [[Jeggred Baenre]](especially him) are gonna come after the party in the next mini-arc
+    - [[Lord Zelraun Roaringhorn]] - representative of  the[[Harpers]] in town for the dinner ([[Kholwin]] is a harper)
+    - [[Sir Lanniver Strayl]] - representative of the [[Order of the Gauntlet]] in town for the dinner ([[Raith]] is in the order)
+    - [[Morista Malkin]] - representative of the [[The Emerald Enclave]] in town for the dinner
+    - [[Lord Eravien Haund]] - representative of the [[Lords' Alliance]] in town for the dinner
+    - [[Davra Jassur]] - representative of the [[Zhentarim]] in town for the dinner
+
+
 
 
 
@@ -76,14 +85,9 @@ PC's:
 - Refer to the adventure [Out of the Abyss](https://www.dndbeyond.com/sources/oota)
 
 # Pre-Session Notes
-2 demons have now encountered they party....and they have lived! not of their own wills. both demons have endeavored to control the groups actions...not end them. they have both mentioned [[House Baenre]] and the deal that they have made with [[Mammon]].
-
-This is part of a broader move/coalition with Lolth. Lolth is pissed (really pissed) about [[Jarlaxle Baenre]]'s deal with [[Mammon]]. She has recruited other Devils and Demons to try and end the partnership.
-
-Yestabrod sent by Lolth to make a deal with the party: Tend to [[Jarlaxle Baenre]] and his family and be rewarded with a guarantee of safe operation of [[Wave Echo Cave]] for the lifetime of the party's ownership. If Yestabrod defeats the party show mercy as proof of the good faith, if the party bests Yesta beg and plead
-
-Either way Yesta will talk about [[Diary of Jarlaxle Baenre]] and guide the party how to read it. Will mention being attuned and will make a joke about "good luck reading it......dispel your incredulity....it will take more than time to read the book. Script has a way of.....twisting itself in knots."
-# Session notes
 - Raith wants to leave the underdark....now.....
+
+# Session notes
+- starting a fight with [[Esteban]]
 
 # Post Session notes

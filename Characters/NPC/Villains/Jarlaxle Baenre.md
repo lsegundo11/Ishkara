@@ -1,8 +1,13 @@
 ---
-aliases: [Beniago Kurth, Jarlaxle D'aerthe, Lord D'aerthe]
+aliases:
+    - Beniago Kurth
+    - Jarlaxle D'aerthe
+    - Lord D'aerthe
+tags:
+    - #Status/Alive 
 ---
 
-# Jarlaxle Baenre - #Status/Alive 
+# Jarlaxle Baenre
 ***Image***
 - AC: xx  
 - HP: xx  

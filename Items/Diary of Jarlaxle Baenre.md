@@ -1,7 +1,7 @@
 ---
 aliases: [Blank Book]
 ---
-# Diary of Jarlaxle Baenre
+# Diary of [[Jarlaxle Baenre]]
 Wondrous item, rare (requires attunement)
 ___
 ## Description
