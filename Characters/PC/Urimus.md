@@ -1,6 +1,17 @@
-# Urimus - #Status/Alive #Status/Public/Unknown 
-![[Urimus.png|200]]
+---
+tags:
+    - Status/Alive
+    - Status/Public/Unknown
+---
 
+# Urimus
+![[urimus_portrait.png|200]]
+
+Character sheet: [Urimus](https://www.dndbeyond.com/characters/25821488)
+
+## Who Am I
+
+## Stats
 - AC: 16
 - HP: 48  
 - Speed: 30

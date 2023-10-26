@@ -11,7 +11,7 @@ PC's:
 - [[El Condor]]
 - [[Kholwin]]
 - [[Raith]]
-- [[Ikros]]
+- [[Ikros Silenttale]]
 - [[Theoc Shadowsbane]]
 
 ## Strong Start

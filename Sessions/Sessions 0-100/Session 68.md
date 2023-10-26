@@ -47,7 +47,7 @@ PC's:
     1. [x] Sarith Kzekarit knows a gray ooze lives in the pool. It’s harmless, feeding off waste unless disturbed.
     1. [x] Sarith Kzekarit knows a supply patrol from Menzoberranzan is a few days overdue, which is unusual
 1. [ ] There is probably something to the this telepathink grey ooze "Flesh for the Faceless Lord" thing!
-  1. [x] the Demogorgon seems to work for the "faceless lord" and is sending telepathic broadcasts that Mammon is not welcome in the underdark...
+  1. [x] the [[Demogorgon]] seems to work for the "faceless lord" and is sending telepathic broadcasts that Mammon is not welcome in the underdark...
 1. [x] something has the local Demon's all rowled up...probably the deal [[Jarlaxle Baenre]] made with the devil [[Mammon]] and half the Kua-Toa to make his plague!
 1. [ ] Eldeth can lead the party to [[Gracklstugh]] to find a way out of [[The Underdark]]
 1. [ ] the way out at [[Gracklstugh]] is shut!

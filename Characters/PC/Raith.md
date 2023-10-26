@@ -1,13 +1,23 @@
-# Raith - #Status/Alive 
-![[Raith.jpg|200]]
+---
+tags:
+    - Status/Alive
+---
 
-- AC: 16  
-- HP: 34  
-- Speed: 30 
+# Raith
+![[raith_portrait.jpg|200]]
+
+Character sheet: [Raith](https://www.dndbeyond.com/characters/25890065)
+
+## Who Am I
+
+## Stats
+- AC: 18
+- HP: 58
+- Speed: 30ft
 
 | STR | DEX | CON | INT | WIS | CHA|
 | ---- | ---- | ---- | ---- | ---- | ---- |
-|13 (+1)|15 (+2)|10 (0)|15 (+2)|9 (-1)|16 (+3)|
+|19 (+4)|15 (+2)|10 (0)|15 (+2)|9 (-1)|16 (+3)|
 
 ## Skills
 Favored Enemy (Humanoids, orcs, Goblins, Abyssal), Natural Explorer (Mountain), Archery, Spell casting (WIS DC10), Ranger Archtype (hunter), Primeval Awareness, Horde Breaker, Extra Attack

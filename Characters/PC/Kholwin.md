@@ -1,12 +1,23 @@
-# Kholwin - #Status/Alive
+---
+tags:
+    - Status/Alive
+---
 
+# Kholwin
+![[kholwin_portrait.png|200]]
+
+Character sheet: [Kholwin](https://www.dndbeyond.com/characters/25408582)
+
+## Who am I
+
+## Stats
 - AC: 12
-- HP: 38
-- Speed:30 
+- HP: 66
+- Speed: 30ft
 
 | STR | DEX | CON | INT | WIS | CHA|
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| 12(+1) | 11(0) | 14(+2) | 12(+1) | 16(+3) | 14(+20) |
+| 12(+1) | 11(0) | 15(+2) | 12(+1) | 19(+4) | 14(+20) |
 
 ## Skills
 

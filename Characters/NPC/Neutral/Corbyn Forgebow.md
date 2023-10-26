@@ -1,7 +1,7 @@
 # Corbyn Forgebow - #Status/Alive #Status/Compromised
 ***Image***
 
-Who am I: Sovereign of [[Sciana]], Head of [[The Council of Nine]]
+Who am I: Sovereign of [[Sciana]], Head of [[Lords Alliance]]
 
 - AC: xx  
 - HP: xx  

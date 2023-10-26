@@ -1,7 +1,7 @@
 # Dagult Neverember - #Status/Alive 
 ***Image***
 
-Who Am I: Lord Protector of [[NeverWinter]], member of [[The Council of Nine]]
+Who Am I: Lord Protector of [[NeverWinter]], member of [[Lords Alliance]]
 
 - AC: xx  
 - HP: xx  

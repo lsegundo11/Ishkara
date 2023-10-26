@@ -1,4 +1,9 @@
-# Sildar Hallwinter - #Status/Alive 
+---
+tags:
+    -Status/Alive
+---
+
+# Sildar Hallwinter
 ***Image***
 
 Who Am I: main recruiter for [[Sidiqi Adventures|SA]]. Friend to [[Caldazar]] in the army. Business partner or [[Gundren Rockseeker]]

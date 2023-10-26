@@ -15,11 +15,11 @@
 ### [[Session 71]]
 - need to loot some bodies!
     - looted!
- - found [[Ikros]]!
+ - found [[Ikros Silenttale]]!
  - lured the hook horror (from the north!!)....about to get into it...the southern one to make an appearance soon
  - 
  ### [[Session 72]]
- - [[ikros]] went first!
+ - [[Ikros Silenttale]] went first!
     - gnolls attack!
     - [[Triel Baenre]] isnt far behind....
     - she showed....its not good
@@ -36,7 +36,7 @@
 ### [[Session 74]]
 - [[Caldazar]] killed [[Triel Baenre]]!!! holy shit
 - fighting [[Yeenoghu]]
-    - [[Ikros]] has surrerndered!
+    - [[Ikros Silenttale]] has surrerndered!
     - [[Yeenoghu]] has sorta saved the party, told them to take care of [[Jarlaxle Baenre]] and get the fuck out of the [[The Underdark]]
 ### [[Session 75]]
 - bit of a retcon here to integrate [[Theoc Shadowsbane]]'s character

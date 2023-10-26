@@ -1,9 +1,19 @@
-# El Condor - #Status/Alive 
-![[El condor-token.png|200]]
+---
+tags:
+    - Status/Alive
+---
 
-- AC: xx
-- HP: xx
-- Speed: xx
+# El Condor
+![[el_condor_token.png|200]]
+
+Character sheet: [El Condor](https://www.dndbeyond.com/characters/8253973)
+
+## Who Am I
+
+## Stats
+- AC: 15
+- HP: 96
+- Speed: 40
 
 | STR | DEX | CON | INT | WIS | CHA|
 | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -14,13 +24,13 @@ Rage, Unarmored Defense, Reckless Attack, Danger Sense, Primal Path (Totem Warri
 
 ## Senses and Languages
 ### Senses
-- Passive Perception: 13
-- Passive Investigation: 9
-- Passive Insight: 10
+- Passive Perception: 14
+- Passive Investigation: 11
+- Passive Insight: 12
 - Darkvision: 60
 
 ### Langauges
-Common, Dwarvish, Giant
+Common, Dwarvish, Giant, Under Common
 
 ## Weapons and Attacks
 +1 Battle Axe, Tavern Brawler Strike

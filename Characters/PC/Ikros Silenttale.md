@@ -1,11 +1,19 @@
-# Ikros - #Status/Alive 
+---
+tags:
+    - Status/Alive
+---
 
-***Image***
+# Ikros Silenttale
+![[ikros_silenttale_portrait.jpeg|200]]
 
-Who am I:??
-- AC: xx  
-- HP: xx  
-- Speed: xx 
+Character sheet: [Ikros Silenttale](https://www.dndbeyond.com/characters/65504606)
+
+## Who am I
+
+## Stats
+- AC: 19
+- HP: 67
+- Speed: 25ft
 
 | STR | DEX | CON | INT | WIS | CHA|
 | ---- | ---- | ---- | ---- | ---- | ---- |

@@ -2,7 +2,7 @@
 aliases: [The Black Spider]
 ---
 # Nezznar - #Status/Dead
-![[nezznar.png|200]]
+![[nezznar_portrait.png|200]]
 - AC: 14
 - HP: 27  
 - Speed: 30ft 

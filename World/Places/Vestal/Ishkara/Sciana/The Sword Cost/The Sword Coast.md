@@ -3,10 +3,10 @@
 Area of [[Sciana]] on the Western coast. 
 
 Includes the towns of:
-- [[NeverWinter]] - member city of  [[The Council of Nine]]
-- [[Luskan]] - member city of [[The Council of Nine]]
-- [[Phandalin]] - member city of [[The Council of Nine]]
-- [[Thundertree]] - abandoned city. formerly a member city of [[The Council of Nine]]
+- [[NeverWinter]] - member city of  [[Lords Alliance]]
+- [[Luskan]] - member city of [[Lords Alliance]]
+- [[Phandalin]] - member city of [[Lords Alliance]]
+- [[Thundertree]] - abandoned city. formerly a member city of [[Lords Alliance]]
 - [[Wave Echo Cave]]
 
 Landmarks:

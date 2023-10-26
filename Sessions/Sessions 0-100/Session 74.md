@@ -11,7 +11,7 @@ PC's:
 - [[El Condor]]
 - [[Kholwin]]
 - [[Raith]]
-- [[Ikros]]
+- [[Ikros Silenttale]]
 
 ## Strong Start
 - the party is in:

@@ -1,16 +1,23 @@
-# Theoc Shadowsbane - #Status/Alive 
-***Image***
+---
+tags:
+    - Status/Alive
+---
+
+# Theoc Shadowsbane
+![[theoc_shadowsbane_portrait.png|200]]|
+
+Character sheet: [Theoc Shadowsbane](https://www.dndbeyond.com/characters/74990024)
 
 ## Who am I
 
 ## Stats
 - AC: 13
-- HP: 46  
-- Speed: 30 
+- HP: 58
+- Speed: 30ft
 
 | STR | DEX | CON | INT | WIS | CHA|
 | ---- | ---- | ---- | ---- | ---- | ---- |
-|16(+3)|13(+1)|10(+0)|9(-1)|10(+0)|18(+4)|
+|16(+3)|13(+1)|10(+0)|9(-1)|10(+0)|20(+5)|
 
 ## Skills
 

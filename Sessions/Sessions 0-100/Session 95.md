@@ -10,7 +10,7 @@ PC's:
 - [[El Condor]]
 - [[Kholwin]]
 - [[Raith]]
-- [[Ikros]]
+- [[Ikros Silenttale]]
 - [[Theoc Shadowsbane]]
 
 ## Strong Start
@@ -63,16 +63,18 @@ PC's:
 ## NPCs
 
 - [ ]  Review NPCs
-    - [[Triel Baenre]] - DEAD (when [[Jeggred Baenre]] finds out he is gonna be PISSED)
-    - [[Asha Vandree]] - DEAD
-    - [[Shoor Vandree]] - Hunting the party after the death of his sister [[Asha Vandree]]
-    - [[Jorlan Duskryn]] - let the party go from [[Velkynvelve]]. there may be something more to that
-    - [[Yeenoghu]] demon lord of the Gnolls. Pissed at [[House Baenre]] for making a deal with [[Mammon]]and at [[Triel Baenre]] for messing with his Gnolls. He wanted to take [[Triel Baenre]] but she was murdered by [[Caldazar]], which is why [[Yvonnel Baenre]] and [[Jeggred Baenre]](especially him) are gonna come after the party in the next mini-arc
-    - [[Lord Zelraun Roaringhorn]] - representative of  the[[Harpers]] in town for the dinner ([[Kholwin]] is a harper)
-    - [[Sir Lanniver Strayl]] - representative of the [[Order of the Gauntlet]] in town for the dinner ([[Raith]] is in the order)
-    - [[Morista Malkin]] - representative of the [[The Emerald Enclave]] in town for the dinner
-    - [[Lord Eravien Haund]] - representative of the [[Lords' Alliance]] in town for the dinner
-    - [[Davra Jassur]] - representative of the [[Zhentarim]] in town for the dinner
+    - Villains
+        - [[Triel Baenre]] - DEAD (when [[Jeggred Baenre]] finds out he is gonna be PISSED)
+        - [[Asha Vandree]] - DEAD
+        - [[Shoor Vandree]] - Hunting the party after the death of his sister [[Asha Vandree]]
+        - [[Jorlan Duskryn]] - let the party go from [[Velkynvelve]]. there may be something more to that
+        - [[Yeenoghu]] demon lord of the Gnolls. Pissed at [[House Baenre]] for making a deal with [[Mammon]]and at [[Triel Baenre]] for messing with his Gnolls. He wanted to take [[Triel Baenre]] but she was murdered by [[Caldazar]], which is why [[Yvonnel Baenre]] and [[Jeggred Baenre]](especially him) are gonna come after the party in the next mini-arc
+    - Allies and Unknowns
+        - [[Lord Zelraun Roaringhorn]] - representative of  the [[Harpers]] in town for the dinner ([[Kholwin]] is a harper)
+        - [[Sir Lanniver Strayl]] - representative of the [[Order of the Gauntlet]] in town for the dinner ([[Raith]] is in the order)
+        - [[Morista Malkin]] - representative of the [[The Emerald Enclave]] in town for the dinner
+        - [[Lord Eravien Haund]] - representative of the [[Lords' Alliance]] in town for the dinner
+        - [[Davra Jassur]] - representative of the [[Zhentarim]] in town for the dinner
 
 
 

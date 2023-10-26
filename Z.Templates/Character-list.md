@@ -4,5 +4,5 @@ PC's:
 - [[Kholwin]]
 - [[Raith]]
 - [[Urimus]] - missing
-- [[Ikros]]
+- [[Ikros Silenttale]]
 - [[Theoc Shadowsbane]]

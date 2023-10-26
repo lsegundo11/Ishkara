@@ -1,13 +1,23 @@
-# Caldazar - #Status/Alive 
-![[Caldazar-portrait.jpeg|200x200]]
+---
+tags:
+    - Status/Alive
+---
 
+# Caldazar 
+![[caldazar_portrait.jpeg|200]]
+
+Character sheet: [Caldazar](https://www.dndbeyond.com/characters/27174697)
+
+## Who am I
+
+## Stats
 - AC: 17
-- HP: 49
+- HP: 76
 - Speed: 30 
 
 | STR | DEX | CON | INT | WIS | CHA|
 | ---- | ---- | ---- | ---- | ---- | ---- |
-16 (+3)|14 (+2)|16 (+3)|14 (+2)|11 (0)|9 (-1)
+16 (+3)|14 (+2)|16 (+3)|16 (+3)|11 (0)|9 (-1)
 
 ## Skills
 2 Weapon Fighting, Second Wind, Action Surge, Eldritch Knight, Spell Casting (INT DC13)

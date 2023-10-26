@@ -1,6 +1,5 @@
 # Sloobludop
 ![[Sloobludop.jpg|200]]
-[[Sloobludop.jpg]]
 ## Description
 
 
@@ -16,7 +15,7 @@
 
 Sloobludop is a kuo-toa village on the eastern edge of the Darklake. From a distance, it looks like a massive tangle of reeds stretching up into the darkness, lit by glowing spots of phosphorescence. Upon closer approach, a series of rickety towers can be seen, lashed together by rope and plank bridges set in haphazard patterns. Even above ground, the kuo-toa build in line with their three-dimensional aquatic sensibilities, constructing their “great city” as if it were underwater.
 
-Sloobludop simmers with religious fervor and sectarian tension. While many of the kuo-toa still worship the goddess Blibdoolpoolp, a faction has shifted its worship to Leemooggoogoon the Deep Father, a vision influenced by the manifestation of the demon prince Demogorgon from the depths of the Darklake. Initially, the archpriest of Blibdoolpoolp tolerated this — but then his own daughter declared herself an archpriest of Leemooggoogoon, and the cult began to grow.
+Sloobludop simmers with religious fervor and sectarian tension. While many of the kuo-toa still worship the goddess Blibdoolpoolp, a faction has shifted its worship to Leemooggoogoon the Deep Father, a vision influenced by the manifestation of the demon prince [[Demogorgon]] from the depths of the Darklake. Initially, the archpriest of Blibdoolpoolp tolerated this — but then his own daughter declared herself an archpriest of Leemooggoogoon, and the cult began to grow.
 
 >**SLOOBLUDOP: GENERAL FEATURES**
 >

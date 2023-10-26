@@ -2,8 +2,8 @@
 
 ## MORNING
 ### [[Session 81]]
-- [[Caldazar]] and [[Ikros]] have been kidnapped by [[Jeggred Baenre]]!
-- found [[Ikros]]!!
+- [[Caldazar]] and [[Ikros Silenttale]] have been kidnapped by [[Jeggred Baenre]]!
+- found [[Ikros Silenttale]]!!
 - vronk and chasme fight!
 ### [[Session 82]]
 - vronk and chasme fight!

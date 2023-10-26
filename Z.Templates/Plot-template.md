@@ -1,6 +1,9 @@
 # {{Title}}
 ## Basic Info
 ### Characters
+- Allies
+- Villains
+- Unknowns
 ### Description
 ### Places
 ### Result
