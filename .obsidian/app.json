@@ -1,7 +1,7 @@
 {
   "obsidianCss": false,
-  "foldHeading": false,
-  "foldIndent": false,
+  "foldHeading": true,
+  "foldIndent": true,
   "defaultViewMode": "preview",
   "showLineNumber": true,
   "useTab": false,

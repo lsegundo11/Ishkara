@@ -1,6 +1,6 @@
 ---
 tags:
-    -Status/Alive
+    Status/Alive
 ---
 
 # Sildar Hallwinter

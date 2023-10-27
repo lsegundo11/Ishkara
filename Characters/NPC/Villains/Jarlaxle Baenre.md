@@ -1,10 +1,10 @@
 ---
 aliases:
-    - Beniago Kurth
-    - Jarlaxle D'aerthe
-    - Lord D'aerthe
+  - Beniago Kurth
+  - Jarlaxle D'aerthe
+  - Lord D'aerthe
 tags:
-    - #Status/Alive 
+    - Status/Alive
 ---
 
 # Jarlaxle Baenre

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5401e51a56f6ec33",
+        "id": "021622d5392c0d42",
         "type": "tabs",
         "children": [
           {
-            "id": "a20c4e3e000d02b1",
+            "id": "2c26745916f318e1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06-Gauntlgrym.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -44,10 +48,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alliance",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5086555480957
+    "width": 365.5
   },
   "right": {
     "id": "aacc79ab6df312d1",
@@ -74,6 +78,7 @@
       {
         "id": "aa63f2f7211e8997",
         "type": "tabs",
+        "dimension": 46.41472868217054,
         "children": [
           {
             "id": "8dda3e6e7d52d022",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06-Gauntlgrym.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,36 +109,62 @@
             }
           },
           {
-            "id": "2f6f5361b44b81ea",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "08a96ccd9bd3ebd0",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "c527cb2bd29a0bbf",
+            "id": "bdd686b81afde34a",
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06-Gauntlgrym.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f008ee7be91ebe51",
+        "type": "tabs",
+        "dimension": 53.58527131782945,
+        "children": [
+          {
+            "id": "a9d41b4729d54604",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06-Gauntlgrym.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "file:-session file:-day",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7814079356225159,
+                  "close": true
+                }
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 481.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,41 +177,48 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "a20c4e3e000d02b1",
+  "active": "2c26745916f318e1",
   "lastOpenFiles": [
-    "World/Government/0_Government.md",
-    "World/Government/Lords Alliance.md",
-    "Characters/NPC/Neutral/Corbyn Forgebow.md",
-    "World/Politics/House Baenre/House Baenre.md",
-    "World/Politics/Harpers/Watcher.md",
-    "World/Politics/Harpers/Harpers.md",
-    "World/Government/High Captains.md",
-    "World/Places/Vestal/Ishkara/Sciana/The Sword Cost/NeverWinter/NeverWinter.md",
-    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.03-Guests at the Feast.md",
-    "Characters/NPC/Allies/Davra Jassur.md",
-    "Characters/NPC/Allies/Lord Eravien Haund.md",
-    "Characters/NPC/Allies/Morista Malkin.md",
-    "Characters/NPC/Allies/Sir Lanniver Strayl.md",
-    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.02-Audience with Bruenor.md",
-    "Sessions/Sessions 0-100/Session 95.md",
-    "Characters/NPC/Allies/Lord Zelraun Roaringhorn.md",
-    "Characters/NPC/Allies/Bruenor Battlehammer.md",
-    "Z.Templates/Plot-template.md",
+    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Gauntlgrym.md",
     "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06-Gauntlgrym.md",
-    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.01-Fight with Esteban.md",
+    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.05-The Royal Pegasus.md",
+    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/The Royal Pegasus.md",
+    "Z.Templates/Plot-template.md",
+    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.02-Audience with Bruenor.md",
+    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.03-Guests at the Feast.md",
+    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.04-Iron Tabernacle.md",
+    "Characters/NPC/Neutral/Banain.md",
+    "Characters/NPC/Villains/Jarlaxle Baenre.md",
+    "Z.Templates/Character-template.md",
     "Characters/NPC/Allies/Sildar Hallwinter.md",
-    "Story/Diary/1-100/Day 49.md",
-    "Story/Diary/1-100/Day 50.md",
-    "Story/Diary/1-100/Day 51.md",
-    "Sessions/Sessions 0-100/Session 51.md",
-    "Story/Plots/S01-The Baenre Conspiracy/S01.01-Lost Mine of Phandelver/S01.01.04-Wave Echo Cave/S01.01.04-Wave Echo Cave.md",
+    "Story/Diary/1-100/Day 83.md",
+    "Story/Diary/1-100/Day 73.md",
+    "Story/Diary/1-100/Day 72.md",
+    "Sessions/Sessions 0-100/Session 95.md",
+    "World/Places/Vestal/Ishkara/The Underdark/Velkynelve/Velkynvelve.md",
+    "Attachments/locations/Velkynvelve.jpg",
+    "World/Places/Vestal/Ishkara/The Underdark/Sloobludop/Sloobludop.md",
+    "World/Places/Vestal/Ishkara/The Underdark/Velkynelve/Velkynvelve - Slave Pens.md",
+    "Z.Templates/World-build.md",
+    "place template.md",
+    "Characters/Monsters/Demogorgon.md",
+    "World/Government/Government.md",
+    "World/Glossary/OOC/Tags.md",
+    "World/Politics/Lords Alliance/Lords Alliance.md",
+    "World/Politics/Lords Alliance",
+    "World/Politics/High Captains/High Captains.md",
+    "World/Politics/Zhentarim",
+    "World/Politics/Sidiqi Adventures",
+    "World/Politics/Order of the Gauntlet",
+    "World/Politics/House Baenre",
+    "World/Politics/High Captains",
+    "World/Politics/Harpers",
+    "World/Politics/Bregan D'aerthe",
+    "World/Politics",
     "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.03-Iron Tabernacle",
-    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.02-Guests at the Feast",
-    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.01-Fight with Esteban",
     "Attachments/theoc_shadowsbane_portrait.png",
     "Attachments/esteban_portrait.jpg",
     "Attachments/ikros_silenttale_portrait.jpeg",
-    "Attachments/image0.jpg",
-    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym"
+    "Attachments/image0.jpg"
   ]
 }
