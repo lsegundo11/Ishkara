@@ -29,7 +29,7 @@ PC's:
             2. will they head home
         3. state dinner with all the allies
             1. [[Kholwin]] and [[[Raith]] may have to decide on orders from their respective factions
-            2. An assassin will strike from [[Jarlaxle Baenre]] through a plant in [[Lords' Alliance]] faction at the dinner
+            2. An assassin will strike from [[Jarlaxle Baenre]] through a plant in [[Lords Alliance]] faction at the dinner
 
 
 
@@ -73,7 +73,7 @@ PC's:
         - [[Lord Zelraun Roaringhorn]] - representative of  the [[Harpers]] in town for the dinner ([[Kholwin]] is a harper)
         - [[Sir Lanniver Strayl]] - representative of the [[Order of the Gauntlet]] in town for the dinner ([[Raith]] is in the order)
         - [[Morista Malkin]] - representative of the [[The Emerald Enclave]] in town for the dinner
-        - [[Lord Eravien Haund]] - representative of the [[Lords' Alliance]] in town for the dinner
+        - [[Lord Eravien Haund]] - representative of the [[Lords Alliance]] in town for the dinner
         - [[Davra Jassur]] - representative of the [[Zhentarim]] in town for the dinner
 
 

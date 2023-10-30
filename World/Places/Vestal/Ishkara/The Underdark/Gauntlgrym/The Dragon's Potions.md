@@ -1,0 +1,26 @@
+# The Dragon's Potions
+- Primary goods: Potions and maps
+- Shopkeeper Name: Canda - a short female elf
+    - She is a retired adventurer, and keeps a collection of maps of forgotten tombs and dungeons.
+    - Willingness to Haggle: 0 (0 - 10; 0 = no haggling ever, 10 = low DC check if players ask)
+- Description:
+    - The shop is a single story timber and brick building, with tall elf-wrought wooden shelves. The surrounding yard is filled with scorch marks and craters.
+- Specific items of note:
+    - Oil of Slipperiness (uncommon, dmg 184)
+        - This cloudy admixture smells like rot and decay.
+    - Potion of Climbing (common, dmg 187)
+        - This smoky red draught causes the air to become still and cold when used.
+    - Potion of Healing (common, dmg 187)
+        - This clear elixir smells like mint.
+    - Potion of Hill Giant Strength (uncommon, dmg 187)
+        - A sapphire tincture, contained in a thick jar.
+    - Potion of Invisibility (very rare, dmg 188)
+        - This glowing admixture smells bitter.
+    - Potion of Stone Giant Strength (rare, dmg 187)
+        - This bubbling emerald potion smells like roses.
+    - Potion of Superior Healing (rare, dmg 187)
+        - This thin oil causes a floating sensation when used.
+    - Potion of Supreme Healing (very rare, dmg 187)
+        - A clear elixir, contained in a porcelain jar etched with holy symbols.
+    - Potion of Supreme Healing (very rare, dmg 187)
+        - This watery green tincture smells like musk.

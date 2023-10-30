@@ -67,30 +67,14 @@
 ## Inns and Taverns: (1 for village, 2 for town, 3+ for city)
 
 [http://donjon.bin.sh/fantasy/inn](http://donjon.bin.sh/fantasy/inn) is a great resource
-
-### Inn Number 1
-
-- Description
-- Innkeeper:
-- Menu (or average price of a room/meal):
-- Rumors:
-
-### Inn Number 2
-
-### Inn Number 3
+- Inn Number 1
+- Inn Number 2
+- Inn Number 3
 
 ## Shops:
-
-### Shop Number 1
-
-- Primary goods
-- Shopkeeper Name
-
-- Shopkeeper Willingness to Haggle (0 - 10; 0 = no haggling ever, 10 = low DC check if players ask)
-
-### Shop Number 2
-
-### Shop Number 3
+- Shop Number 1
+- Shop Number 2
+- Shop Number 3
 
 ## Important NPCs
 

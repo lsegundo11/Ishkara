@@ -2,7 +2,7 @@
 ## Basic Info
 ### Characters
 ### Description
-[[Jarlaxle Baenre]] has been orchestrating everything behind the scenes, Venomfang, [[Nezznar]] the Black Spider, the death of [[El Condor]]'s and [[Caldazar]]'s family, all of it. This whole conspiracy was to drive trade to [[Luskan]] and MAKE MONEY
+[[Jarlaxle Baenre]] has been  orchestrating everything behind the scenes, Venomfang, [[Nezznar]] the Black Spider, the death of [[El Condor]]'s and [[Caldazar]]'s family, all of it. This whole conspiracy was to drive trade to [[Luskan]] and MAKE MONEY
 ### Result
 ___
 ## Resolution Steps

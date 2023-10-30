@@ -42,7 +42,7 @@ ___
 
 ___
 # Notes:
-Lady Dwarf that was held captured with the party and held in [[Velkynvelve]]. she has been floating around [[The Underdark]] looking for [[El Condor]] because she has a serious crush on the dude. wants to help the party out of [[The Underdark]] and want [[El Condor]] to take her with him. will lead the party to [[Gauntlgrym]] to try and get them out that way. will find the way out guarded and closed. will die in the fight that happens there.
+Lady Dwarf that was held captured with the party and held in [[Velkynvelve]]. she has been floating around [[The Underdark]] looking for [[El Condor]] because she has a serious crush on the dude. wants to help the party out of [[The Underdark]] and want [[El Condor]] to take her with him. will lead the party to [[Gauntlgrym]] to try and get them out that way.
 ___
 # Detailed Info:
 Name|Value
