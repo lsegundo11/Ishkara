@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5b1273f5c508a885",
+        "id": "35fe4572bed96721",
         "type": "tabs",
         "children": [
           {
-            "id": "a19a2d3ecf4bfbb0",
+            "id": "e5e5610563823d4a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "calde",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 381.5
   },
   "right": {
     "id": "aacc79ab6df312d1",
@@ -128,8 +128,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "dc3466297f4a4260",
@@ -173,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5
+    "width": 242.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,36 +185,37 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "a19a2d3ecf4bfbb0",
+  "active": "e5e5610563823d4a",
   "lastOpenFiles": [
+    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.01-Fight with Esteban.md",
+    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Rado's Enchanted Caducetorium.md",
+    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Gauntlgrym.md",
+    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06-Gauntlgrym.md",
+    "Sessions/Session 96.md",
+    "Story/Diary/1-100/Day 83.md",
+    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/The Dragon's Potions.md",
+    "Characters/PC/Caldazar.md",
+    "Story/Diary/1-100/Day 66.md",
+    "Story/Diary/1-100/Day 67.md",
+    "Characters/PC/Raith.md",
+    "Characters/PC/El Condor.md",
+    "Sessions/Session 95.md",
+    "Story/Diary/1-100/Day 84.md",
+    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.02-Audience with Bruenor.md",
+    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.03-Guests at the Feast.md",
+    "Attachments/locations/S01.02.06.02-Guests at the Feast.jpg",
+    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/The Royal Pegasus.md",
+    "Attachments/locations/the_royal_pegasus.jpg",
+    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.04-Iron Tabernacle.md",
+    "Attachments/locations/S01.02.06.04-Iron Tabernacle fight.jpg",
     "Characters/NPC/Villains/Triel Baenre.md",
     "World/Politics/House Baenre/House Baenre.md",
     "World/Politics/High Captains/High Captains.md",
     "World/Politics/Harpers/Watcher.md",
     "World/Politics/Harpers/Harpers.md",
-    "Sessions/Session 96.md",
     "World/Government/Government.md",
-    "Sessions/Session 95.md",
     "World/Places/Vestal/Ishkara/Sciana/The Sword Cost/NeverWinter/NeverWinter.md",
-    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.03-Guests at the Feast.md",
-    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06-Gauntlgrym.md",
-    "Attachments/locations/S01.02.06.02-Guests at the Feast.jpg",
-    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Gauntlgrym.md",
-    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.04-Iron Tabernacle.md",
-    "Attachments/locations/S01.02.06.04-Iron Tabernacle fight.jpg",
     "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.05-The Royal Pegasus.md",
-    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.02-Audience with Bruenor.md",
-    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/The Crimson Flask.md",
-    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/The Axe of Lightning.md",
-    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/The Royal Pegasus.md",
-    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/The Dragon's Potions.md",
-    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Rado's Enchanted Caducetorium.md",
-    "Z.Templates/World-build.md",
-    "Z.Templates/Shop-template.md",
-    "Z.Templates/inn-template.md",
-    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Cata's Arsenal.md",
-    "World/Religion/Dwarven Pantheon/Moradin.md",
-    "World/Places/Vestal/Ishkara/The Underdark/The Underdark.md",
     "World/Religion/Dwarven Pantheon",
     "Attachments/locations/Velkynvelve.jpg",
     "World/Politics/Lords Alliance",

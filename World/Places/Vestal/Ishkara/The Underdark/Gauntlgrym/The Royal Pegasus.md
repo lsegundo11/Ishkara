@@ -11,3 +11,6 @@
     - Pottage, Mug of Cider (2 cp)
     - Oat Biscuits and Bitter Cheese, Mug of Ale (5 cp)
 - Rumors:
+
+
+![[the_royal_pegasus.jpg]]

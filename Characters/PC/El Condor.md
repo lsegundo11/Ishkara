@@ -30,7 +30,7 @@ Rage, Unarmored Defense, Reckless Attack, Danger Sense, Primal Path (Totem Warri
 - Darkvision: 60
 
 ### Langauges
-Common, Dwarvish, Giant, Under Common
+Common, Dwarvish, Giant (which is actually Spanish), Under Common
 
 ## Weapons and Attacks
 +1 Battle Axe, Tavern Brawler Strike

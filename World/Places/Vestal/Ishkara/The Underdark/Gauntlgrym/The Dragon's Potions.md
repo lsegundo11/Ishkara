@@ -2,6 +2,7 @@
 - Primary goods: Potions and maps
 - Shopkeeper Name: Canda - a short female elf
     - She is a retired adventurer, and keeps a collection of maps of forgotten tombs and dungeons.
+    - Danny DeVito with massive tits
     - Willingness to Haggle: 0 (0 - 10; 0 = no haggling ever, 10 = low DC check if players ask)
 - Description:
     - The shop is a single story timber and brick building, with tall elf-wrought wooden shelves. The surrounding yard is filled with scorch marks and craters.

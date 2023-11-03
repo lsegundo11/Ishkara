@@ -1,7 +1,7 @@
 # Session 96
 #session/96
 
-#date/2023-10-30
+#date/2023-11-02
 ## Characters
 
 - [x]  Review the characters
@@ -24,13 +24,15 @@ PC's:
 ## Scenes
 1. [[S01.02-The Maiden, The Mother, The Crone]]
     1. [[S01.02.06-Gauntlgrym]]
-        1. will receive they're first statement of earning from [[Wave Echo Cave]] (18%!! - 3000 gold)
-        2. Audience with [[Bruenor Battlehammer]]
+        1. [[S01.02.06.01-Fight with Esteban]]
+        2. will receive they're first statement of earning from [[Wave Echo Cave]] (18%!! - 3000 gold)
+        3. Audience with [[Bruenor Battlehammer]]
             1. will they join him?
             2. will they head home
-        3. state dinner with all the allies
+        4. [[S01.02.06.03-Guests at the Feast]]  state dinner with all the allies
             1. [[Kholwin]] and [[[Raith]] may have to decide on orders from their respective factions
             2. An assassin will strike from [[Jarlaxle Baenre]] through a plant in [[Lords Alliance]] faction at the dinner
+        5. [[S01.02.06.04-Iron Tabernacle]]
 
 
 
