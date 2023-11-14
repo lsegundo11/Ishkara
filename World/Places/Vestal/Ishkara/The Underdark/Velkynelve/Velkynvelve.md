@@ -1,6 +1,5 @@
 # Velkynvelve
-![[Velkynvelve.jpg|200]]
-[[Velkynvelve.jpg]]
+![[velkynvelve.jpg|200]]
 ## Description
 The drow outpost is located high in a cavern, built 100 feet above the rocky floor. The outpost consists of a series of small caves in the cavern walls and four “hanging towers” — hollowed-out stalactites connected by walkways, stairs, and rope bridges. The towers are concealed by the thick webs of giant spiders stretched below them, so that only the lowermost parts of the stalactites are visible from the cavern floor.
 

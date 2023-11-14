@@ -6,7 +6,7 @@ tags:
 
 
 # Esteban
-![[esteban_portrait.jpg]]
+![[esteban-the-horse-portrait.jpg]]
 ## Who am I
 I am the party's horse....abandoned at the entrance to [[Wave Echo Cave]]. summoned to [[Gauntlgrym]] by a small bat sent by the party. I am EXTREMELY pissed at the party for leaving me there
 

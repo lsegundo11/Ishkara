@@ -25,7 +25,12 @@
 - the party is gonna have some drinks maybe do some shopping
     - party headed to [[The Dragon's Potions]]
 ## AFTERNOON
-- banned form [[Rado's Enchanted Caducetorium]] after [[Kholwin]] threatened the shopkeeper
+- Shopping at [[Rado's Enchanted Caducetorium]]
+    - banned form [[Rado's Enchanted Caducetorium]] after [[Kholwin]] threatened the shopkeeper
+
+[[Session 97]]
+
+- 
 
 ## DUSK
 

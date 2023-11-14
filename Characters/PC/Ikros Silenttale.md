@@ -4,7 +4,7 @@ tags:
 ---
 
 # Ikros Silenttale
-![[ikros_silenttale_portrait.jpeg|200]]
+![[ikros-silenttale-portrait.jpeg|200]]
 
 Character sheet: [Ikros Silenttale](https://www.dndbeyond.com/characters/65504606)
 

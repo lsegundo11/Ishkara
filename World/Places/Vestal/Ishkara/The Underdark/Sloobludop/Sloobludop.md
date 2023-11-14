@@ -1,5 +1,5 @@
 # Sloobludop
-![[Sloobludop.jpg|200]]
+![[Attachments/maps/vestal/ishkara/the_underdark/sloobludop/sloobludop.jpg|200]]
 ## Description
 
 

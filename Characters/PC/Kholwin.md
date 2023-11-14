@@ -4,7 +4,7 @@ tags:
 ---
 
 # Kholwin
-![[kholwin_portrait.png|200]]
+![[kholwin-portrait.png|200]]
 
 Character sheet: [Kholwin](https://www.dndbeyond.com/characters/25408582)
 

@@ -4,7 +4,7 @@ tags:
 ---
 
 # Caldazar 
-![[caldazar_portrait.jpeg|200]]
+![[caldazar-portrait.jpeg|200]]
 
 Character sheet: [Caldazar](https://www.dndbeyond.com/characters/27174697)
 

@@ -5,7 +5,7 @@ tags:
 ---
 
 # Urimus
-![[urimus_portrait.png|200]]
+![[urimus-portrait.png|200]]
 
 Character sheet: [Urimus](https://www.dndbeyond.com/characters/25821488)
 

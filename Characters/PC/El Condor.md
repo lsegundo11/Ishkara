@@ -4,7 +4,7 @@ tags:
 ---
 
 # El Condor
-![[el_condor_token.png|200]]
+![[el-condor-token.png|200]]
 
 Character sheet: [El Condor](https://www.dndbeyond.com/characters/8253973)
 

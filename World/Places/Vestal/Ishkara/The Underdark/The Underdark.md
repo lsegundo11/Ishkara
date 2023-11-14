@@ -1,6 +1,6 @@
 # The Underdark
-![[The_Underdark.jpg|200]]
-[[The_Underdark.jpg]]
+![[the_underdark.jpg|200]]
+
 ## Description
 **Underdark Travel Times**
 

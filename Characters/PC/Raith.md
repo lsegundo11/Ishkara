@@ -4,7 +4,7 @@ tags:
 ---
 
 # Raith
-![[raith_portrait.jpg|200]]
+![[raith-portrait.jpg|200]]
 
 Character sheet: [Raith](https://www.dndbeyond.com/characters/25890065)
 

@@ -4,7 +4,7 @@ tags:
 ---
 
 # Theoc Shadowsbane
-![[theoc_shadowsbane_portrait.png|200]]|
+![[theoc-shadowsbane-portrait.png|200]]|
 
 Character sheet: [Theoc Shadowsbane](https://www.dndbeyond.com/characters/74990024)
 

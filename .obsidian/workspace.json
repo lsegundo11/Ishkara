@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "35fe4572bed96721",
+        "id": "bf48a79295641697",
         "type": "tabs",
         "children": [
           {
-            "id": "e5e5610563823d4a",
+            "id": "630088c0ee169cdf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Z.Templates/inn-template.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -44,11 +48,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "calde",
+                "query": "shoor",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Z.Templates/inn-template.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Z.Templates/inn-template.md"
+              }
             }
           },
           {
@@ -125,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Z.Templates/inn-template.md"
+              }
             }
           }
         ]
@@ -140,6 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Z.Templates/inn-template.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "file:-session file:-day",
@@ -185,51 +195,53 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "e5e5610563823d4a",
+  "active": "630088c0ee169cdf",
   "lastOpenFiles": [
-    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.01-Fight with Esteban.md",
-    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Rado's Enchanted Caducetorium.md",
-    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Gauntlgrym.md",
-    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06-Gauntlgrym.md",
-    "Sessions/Session 96.md",
-    "Story/Diary/1-100/Day 83.md",
-    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/The Dragon's Potions.md",
-    "Characters/PC/Caldazar.md",
-    "Story/Diary/1-100/Day 66.md",
-    "Story/Diary/1-100/Day 67.md",
-    "Characters/PC/Raith.md",
-    "Characters/PC/El Condor.md",
-    "Sessions/Session 95.md",
-    "Story/Diary/1-100/Day 84.md",
-    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.02-Audience with Bruenor.md",
-    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.03-Guests at the Feast.md",
-    "Attachments/locations/S01.02.06.02-Guests at the Feast.jpg",
+    "Z.Templates/Diary-template.md",
+    "Z.Templates/Character-template.md",
+    "Z.Templates/Character-list.md",
+    "README.md",
+    "Attachments/npc/esteban-the-horse/esteban-the-horse-portrait.jpg",
+    "Attachments/npc/glasya/glasya-portrait.jpg",
+    "Attachments/npc/esteban-the-horse",
+    "Attachments/npc/esteban",
+    "Characters/NPC/Villains/Glasya.md",
+    "Attachments/npc/glasya",
+    "Characters/NPC/Villains/Nezznar.md",
+    "Attachments/nezznar_portrait.png",
+    "World/Places/Vestal/Ishkara/The Underdark/Velkynelve/Velkynvelve.md",
+    "Attachments/maps/Velkynvelve.jpg",
+    "World/Places/Vestal/Ishkara/The Underdark/The Underdark.md",
+    "Attachments/maps/The_Underdark.jpg",
+    "Attachments/maps/vestal/ishkara/the_underdark/the_underdark.jpg",
     "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/The Royal Pegasus.md",
-    "Attachments/locations/the_royal_pegasus.jpg",
+    "Attachments/maps/the_royal_pegasus.jpg",
+    "World/Places/Vestal/Ishkara/The Underdark/Sloobludop/Sloobludop.md",
+    "Attachments/maps/Sloobludop.jpg",
+    "Attachments/maps/vestal/ishkara/the_underdark/sloobludop/sloobludop-GM.jpg",
+    "Attachments/maps/vestal/ishkara/the_underdark/sloobludop/sloobludop.jpg",
+    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.02-Audience with Bruenor.md",
+    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06-Gauntlgrym.md",
+    "Story/Diary/1-100/Day 83.md",
     "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.04-Iron Tabernacle.md",
-    "Attachments/locations/S01.02.06.04-Iron Tabernacle fight.jpg",
-    "Characters/NPC/Villains/Triel Baenre.md",
-    "World/Politics/House Baenre/House Baenre.md",
-    "World/Politics/High Captains/High Captains.md",
-    "World/Politics/Harpers/Watcher.md",
-    "World/Politics/Harpers/Harpers.md",
-    "World/Government/Government.md",
-    "World/Places/Vestal/Ishkara/Sciana/The Sword Cost/NeverWinter/NeverWinter.md",
-    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.05-The Royal Pegasus.md",
-    "World/Religion/Dwarven Pantheon",
-    "Attachments/locations/Velkynvelve.jpg",
-    "World/Politics/Lords Alliance",
-    "World/Politics/Zhentarim",
-    "World/Politics/Sidiqi Adventures",
-    "World/Politics/Order of the Gauntlet",
-    "World/Politics/House Baenre",
-    "World/Politics/High Captains",
-    "World/Politics/Harpers",
-    "World/Politics/Bregan D'aerthe",
-    "World/Politics",
-    "Attachments/theoc_shadowsbane_portrait.png",
-    "Attachments/esteban_portrait.jpg",
-    "Attachments/ikros_silenttale_portrait.jpeg",
-    "Attachments/image0.jpg"
+    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.03-Guests at the Feast.md",
+    "Characters/PC/Ikros Silenttale.md",
+    "Characters/PC/Caldazar.md",
+    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.01-Prisoners/S01.02.01-Encounters/S01.02.01E06-Shrine to Lolth.md",
+    "Attachments/npc/triel-baenre",
+    "Attachments/npc/shoor-vandree",
+    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.01-Prisoners/S01.02.01-Encounters/S01.02.01E04-Elite Barracks.md",
+    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.01-Prisoners/S01.02.01-Prisoners.md",
+    "Characters/NPC/Villains/Asha Vandree.md",
+    "Story/Diary/1-100/Day 57.md",
+    "Attachments/npc/ploopploopeen",
+    "Attachments/npc/jorlan-duskryn",
+    "Attachments/npc/jeggred-baenre",
+    "Attachments/npc/jeggard-baenre",
+    "Attachments/npc/jarlaxle-baenre",
+    "World/Places/Vestal/Ishkara/Sciana/The Sword Cost/Phandalin/Lionshield Coster.md",
+    "Characters/NPC/Allies/Esteban.md",
+    "Sessions/Session 97.md",
+    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.01-Fight with Esteban.md"
   ]
 }

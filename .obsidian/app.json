@@ -17,7 +17,7 @@
   "fileSortOrder": "alphabetical",
   "legacyEditor": false,
   "livePreview": false,
-  "promptDelete": true,
+  "promptDelete": false,
   "spellcheck": true,
   "showIndentGuide": true,
   "showUnsupportedFiles": true,

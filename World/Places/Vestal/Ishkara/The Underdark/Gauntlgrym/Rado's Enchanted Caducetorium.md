@@ -6,7 +6,7 @@
     - Willingness to Haggle: 10 (0 - 10; 0 = no haggling ever, 10 = low DC check if players ask)
 - Description:
     - The shop is a two-storey stone-walled building, with a yellow tile roof. The air is filled with the scents of ozone and burning wood.
-- the Party is banned after [[Kholwin]] threatened the shopkeeper
+- [[Sidiqi Adventures|SA]] is banned after [[Kholwin]] threatened the shopkeeper
 - Specific items of note:
 <table class="stats">
   <tbody>
