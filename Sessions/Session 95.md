@@ -90,6 +90,6 @@ PC's:
 - Raith wants to leave the underdark....now.....
 
 # Session notes
-- starting a fight with [[Esteban]]
+- starting a fight with [[Esteban the Horse]]
 
 # Post Session notes

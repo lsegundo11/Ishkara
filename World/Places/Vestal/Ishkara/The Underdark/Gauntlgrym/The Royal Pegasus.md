@@ -1,4 +1,4 @@
-[[Esteban]] is here
+[[Esteban the Horse]] is here
 
 
 # The Royal Pegasus

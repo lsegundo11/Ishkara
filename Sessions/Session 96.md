@@ -18,8 +18,8 @@ PC's:
     - [[Gauntlgrym]]
         - has received summons from [[Bruenor Battlehammer]] for an audience
         - plan was to shop
-        - ran into [[Esteban]] in [[The Royal Pegasus]]
-            - fight is on! - though [[Esteban]] will loose and rekindle his relationship with the party
+        - ran into [[Esteban the Horse]] in [[The Royal Pegasus]]
+            - fight is on! - though [[Esteban the Horse]] will loose and rekindle his relationship with the party
 
 ## Scenes
 1. [[S01.02-The Maiden, The Mother, The Crone]]
@@ -86,6 +86,6 @@ PC's:
     - he will present them with the IOU for their earning
 
 # Session notes
-- starting a fight with [[Esteban]]
+- starting a fight with [[Esteban the Horse]]
 
 # Post Session notes

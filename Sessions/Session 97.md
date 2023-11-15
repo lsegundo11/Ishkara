@@ -1,7 +1,7 @@
 # Session 97
 #session/97
 
-#date/2023-11-07
+#date/2023-11-14
 ## Characters
 
 - [ ]  Review the characters
@@ -79,11 +79,10 @@ PC's:
 # Pre-Session Notes
 - the party has made it to [[Gauntlgrym]] and is about to have their audience with [[Bruenor Battlehammer]].
     - he will present them with the IOU for their earning
-- made nice withe [[Esteban]]
-- got banned from [[Rado's Enchanted Caducetorium]]
-- more shopping and the audience with [[Bruenor Battlehammer]]
+    - more shopping and the audience with [[Bruenor Battlehammer]]
 
 # Session notes
-
+ - wound up att [[The Broken Fang]] for a fight club with [[El Condor]] and the assasin [[Masym]]
+ - Raeford is incredibly drunk...its......impressive
 
 # Post Session notes

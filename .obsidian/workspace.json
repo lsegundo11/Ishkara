@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bf48a79295641697",
+        "id": "3b14b2d87db0af79",
         "type": "tabs",
         "children": [
           {
-            "id": "630088c0ee169cdf",
+            "id": "5fa41435be0a24d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z.Templates/inn-template.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shoor",
+                "query": "file: est",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z.Templates/inn-template.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Z.Templates/inn-template.md"
-              }
+              "state": {}
             }
           },
           {
@@ -132,50 +125,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Z.Templates/inn-template.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "dc3466297f4a4260",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a9d41b4729d54604",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Z.Templates/inn-template.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "file:-session file:-day",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7037000396294957,
-                  "close": true
-                }
-              }
+              "state": {}
             }
           }
         ]
@@ -195,53 +145,52 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "630088c0ee169cdf",
+  "active": "5fa41435be0a24d7",
   "lastOpenFiles": [
+    "Characters/NPC/Villains/Masym.md",
+    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/The Broken Fang.md",
+    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/The Crimson Flask.md",
+    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Gauntlgrym.md",
+    "Story/Diary/1-100/Day 83.md",
+    "Sessions/Session 97.md",
+    "Attachments/npc/esteban-the-horse/esteban-the-horse-portrait.jpg",
+    "Characters/NPC/Allies/Esteban the Horse.md",
+    "Attachments/maps/vestal/ishkara/the_underdark/gauntlgrym/the_iron_fang.jpeg",
+    "Attachments/npc/masym/masym-token.png",
+    "Attachments/npc/masym",
+    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Rado's Enchanted Caducetorium.md",
+    "Items/Kholwin's apology Rado.md",
+    "Story/Diary/1-100/Untitled.md",
+    "Story/Diary/1-100/Day 84.md",
+    "Characters/PC/Ikros Silenttale.md",
+    "Characters/PC/El Condor.md",
+    "Characters/PC/Caldazar.md",
+    "Characters/PC/Urimus.md",
+    "Characters/PC/Theoc Shadowsbane.md",
+    "Characters/PC/Raith.md",
+    "Characters/PC/Kholwin.md",
+    "Sessions/Discovered Secrets.md",
+    "Untitled.md",
+    "Story/Secretes and Clues.md",
+    "Sessions/Session 98.md",
+    "Z.Templates/inn-template.md",
     "Z.Templates/Diary-template.md",
     "Z.Templates/Character-template.md",
-    "Z.Templates/Character-list.md",
-    "README.md",
-    "Attachments/npc/esteban-the-horse/esteban-the-horse-portrait.jpg",
     "Attachments/npc/glasya/glasya-portrait.jpg",
     "Attachments/npc/esteban-the-horse",
     "Attachments/npc/esteban",
-    "Characters/NPC/Villains/Glasya.md",
     "Attachments/npc/glasya",
-    "Characters/NPC/Villains/Nezznar.md",
     "Attachments/nezznar_portrait.png",
-    "World/Places/Vestal/Ishkara/The Underdark/Velkynelve/Velkynvelve.md",
     "Attachments/maps/Velkynvelve.jpg",
-    "World/Places/Vestal/Ishkara/The Underdark/The Underdark.md",
     "Attachments/maps/The_Underdark.jpg",
     "Attachments/maps/vestal/ishkara/the_underdark/the_underdark.jpg",
-    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/The Royal Pegasus.md",
     "Attachments/maps/the_royal_pegasus.jpg",
-    "World/Places/Vestal/Ishkara/The Underdark/Sloobludop/Sloobludop.md",
     "Attachments/maps/Sloobludop.jpg",
-    "Attachments/maps/vestal/ishkara/the_underdark/sloobludop/sloobludop-GM.jpg",
-    "Attachments/maps/vestal/ishkara/the_underdark/sloobludop/sloobludop.jpg",
-    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.02-Audience with Bruenor.md",
-    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06-Gauntlgrym.md",
-    "Story/Diary/1-100/Day 83.md",
-    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.04-Iron Tabernacle.md",
-    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.03-Guests at the Feast.md",
-    "Characters/PC/Ikros Silenttale.md",
-    "Characters/PC/Caldazar.md",
-    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.01-Prisoners/S01.02.01-Encounters/S01.02.01E06-Shrine to Lolth.md",
     "Attachments/npc/triel-baenre",
     "Attachments/npc/shoor-vandree",
-    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.01-Prisoners/S01.02.01-Encounters/S01.02.01E04-Elite Barracks.md",
-    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.01-Prisoners/S01.02.01-Prisoners.md",
-    "Characters/NPC/Villains/Asha Vandree.md",
-    "Story/Diary/1-100/Day 57.md",
     "Attachments/npc/ploopploopeen",
     "Attachments/npc/jorlan-duskryn",
     "Attachments/npc/jeggred-baenre",
-    "Attachments/npc/jeggard-baenre",
-    "Attachments/npc/jarlaxle-baenre",
-    "World/Places/Vestal/Ishkara/Sciana/The Sword Cost/Phandalin/Lionshield Coster.md",
-    "Characters/NPC/Allies/Esteban.md",
-    "Sessions/Session 97.md",
-    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.01-Fight with Esteban.md"
+    "Attachments/npc/jeggard-baenre"
   ]
 }

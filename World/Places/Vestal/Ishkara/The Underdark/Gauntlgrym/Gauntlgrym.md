@@ -95,12 +95,14 @@ All tracks eventually lead to a switching station in the Iron Tabernacle. There,
 - [[The Royal Pegasus]]
 - [[The Axe of Lightning]]
 - [[The Crimson Flask]]
+- [[The Broken Fang]]
 
 ## Shops:
 
 - [[Cata's Arsenal]]
 - [[The Dragon's Potions]]
 - [[Rado's Enchanted Caducetorium]]
+
 
 ## Important NPCs
 

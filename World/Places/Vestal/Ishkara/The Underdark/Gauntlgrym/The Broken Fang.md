@@ -1,0 +1,27 @@
+# The Broken Fang
+
+- Description:
+    - The inn is a two-storey timber and brick building, with a smooth stone floor. Accomodations consist of several small rooms with wooden cots.
+- Innkeeper: Taga Iforgdotr
+    - a young female dwarf
+- Menu (or average price of a room/meal):
+    - Millet Porridge, Mug of Bitter (2 cp)
+    - Stewed Sausage and Chestnut Bread, Tankard of Bitter (11 cp)
+    - Pottage, Mug of Ale (4 cp)
+    - Roasted Veal and Dried Cabbage, Tankard of Stout (9 cp)
+    - Pottage, Mug of Cider (5 cp)
+    - Boiled Partridge and Dried Onions, Tankard of Stout (10 cp)
+    - Vegetable Stew, Mug of Ale (3 cp)
+    - Roasted Boar and Blue Cheese, Tankard of Ale (7 cp)
+- Patrons: 
+    - Tore Steinison: Male Dwarf Druid, Neutral. Tore has a long face, with black hair and green eyes. He wears leather armor and wields a scimitar. Tore is searching for his lost sister.
+    - Adas: Male Halfling Wizard, Neutral. Adas has grey hair and light blue eyes, and a beaked nose. He wears golden robes and wields a quarterstaff. Adas is hunting the doppelganger which destroyed his homeland.
+    - Maso Bolgee: Male Halfling Druid, Neutral. Maso has cropped white hair and green eyes, and a braided moustache. He wears leather armor and wields a club. Maso is quarreling with the innkeeper about their companion, a hawk named Mesym.
+    - Grinarv: Female Dwarf Assassin, Neutral. Grinarv is tall and overweight, with cropped red hair and green eyes. She wears leather armor and wields a long sword and sling. Grinarv seeks to steal a legendary diamond from the Barrow of Unearthly Terror.
+    - [[Masym]]: Male Halfling Fighter, Evil. Masym has a square face, with cropped red hair and brown eyes. He wears chain mail and wields a flail. Masym serves a powerful arch-fiend named Leraie.
+- Rumors:
+    - The Conclave of Zepha are held captive within the Catacombs of Erilar the Treacherous, frozen in time by an evil lich.
+    - The golem in the town square will answer questions, but only in the celestial tongue.
+    - A spectral dragon has been seen in the Madai Heath.
+    - A fang demon with a thousand eyes has been summoned into the Haunted Jungle.
+- free healing for the winner...half price for the looser....we like to keep our fighters health

@@ -1,39 +1,35 @@
 ---
 tags:
-  - Status/Alive
-  - Status/Public/Unknown
+  - Status
 ---
 
+# Masym
+![[masym-token.png|400]]
 
-# Esteban
-![[esteban-the-horse-portrait.jpg]]
 ## Who am I
-I am the party's horse....abandoned at the entrance to [[Wave Echo Cave]]. summoned to [[Gauntlgrym]] by a small bat sent by the party. I am EXTREMELY pissed at the party for leaving me there
+- Male Halfling Fighter, Evil. Masym has a square face, with cropped red hair and brown eyes. He wears chain mail and wields a flail. Masym serves a powerful arch-fiend named Leraie. Fighter in the pit at [[The Broken Fang]].
 
 ## Stats
-- AC: 11
-- HP: 75  
-- Speed: 60ft 
+- AC: xx
+- HP: xx
+- Speed: xxft
 
 | STR | DEX | CON | INT | WIS | CHA|
 | ---- | ---- | ---- | ---- | ---- | ---- |
-|18(+4)|12(+1)|13(+1)|2(-4)|12(+1)|7(-2)|
+|xx(+x)|xx(+x)|xx(+x)|xx(+x)|xx(+x)|xx(+x)|
 
 ## Skills
 
 ## Senses and Languages
 ### Senses
-- Passive Perception: 11
+- Passive Perception: xx
 - Passive Investigation: xx
 - Passive Insight: xx
 - Darkvision: xxft
 
-### Langauges
-- Horse
+### Languages
 
 ## Weapons and Attacks
-- Hooves.
-    - Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
 
 ___
 # Basic Info

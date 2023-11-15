@@ -1,7 +1,7 @@
 # Rado's Enchanted Caducetorium
 - Primary goods:
     - here
-- Shopkeeper Name: Rado
+- Shopkeeper Name: [[Rado]]
     - Description: The shopkeeper is a timid male halfling. He celebrates each sale with a pint of ale.
     - Willingness to Haggle: 10 (0 - 10; 0 = no haggling ever, 10 = low DC check if players ask)
 - Description:
@@ -16,4 +16,10 @@
   </tr>
 </tbody></table>
 
-
+- Rumors:
+    - Charlew the poulter has been spending strange coins, each bearing the image of a fanged skull.
+    - The stone gargoyles of Beodale Castle come to life at night.
+    - Thilde was heard boasting that she killed the Horror of Gentila with a pitchfork.
+    - The barmaid at the Copper Hammer tried to poison one of the town guards.
+    - Scores of dragons have been gathering in the Carmanf Woods.
+    - An ancient weapon of the gods lies somewhere within the Dark Tomb of Nightmares.
