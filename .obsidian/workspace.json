@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3b14b2d87db0af79",
+        "id": "7fc0dcd4d8e7dc11",
         "type": "tabs",
         "children": [
           {
-            "id": "5fa41435be0a24d7",
+            "id": "b9a810992de2e866",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -145,8 +145,15 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "5fa41435be0a24d7",
+  "active": "b9a810992de2e866",
   "lastOpenFiles": [
+    "Characters/NPC/Allies/Nundro Rockseeker.md",
+    "Attachments/npc/nundro-rockseeker/nundro-rockseeker-token.png",
+    "Attachments/npc/nundro-rockseeker/bruenor-battlehammer-token.png",
+    "Attachments/npc/nundro-rockseeker",
+    "Characters/NPC/Allies/Gundren Rockseeker.md",
+    "Attachments/npc/gundren-rockseeker/gundren-rockseeker.png",
+    "Attachments/npc/gundren-rockseeker/bruenor-battlehammer-token.png",
     "Characters/NPC/Villains/Masym.md",
     "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/The Broken Fang.md",
     "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/The Crimson Flask.md",
@@ -175,22 +182,16 @@
     "Sessions/Session 98.md",
     "Z.Templates/inn-template.md",
     "Z.Templates/Diary-template.md",
-    "Z.Templates/Character-template.md",
     "Attachments/npc/glasya/glasya-portrait.jpg",
     "Attachments/npc/esteban-the-horse",
     "Attachments/npc/esteban",
     "Attachments/npc/glasya",
     "Attachments/nezznar_portrait.png",
     "Attachments/maps/Velkynvelve.jpg",
-    "Attachments/maps/The_Underdark.jpg",
-    "Attachments/maps/vestal/ishkara/the_underdark/the_underdark.jpg",
-    "Attachments/maps/the_royal_pegasus.jpg",
-    "Attachments/maps/Sloobludop.jpg",
     "Attachments/npc/triel-baenre",
     "Attachments/npc/shoor-vandree",
     "Attachments/npc/ploopploopeen",
     "Attachments/npc/jorlan-duskryn",
-    "Attachments/npc/jeggred-baenre",
-    "Attachments/npc/jeggard-baenre"
+    "Attachments/npc/jeggred-baenre"
   ]
 }
