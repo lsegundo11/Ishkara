@@ -43,6 +43,13 @@
             - [[El Condor]] and [[Masym]] are gonna go at it fully armed
 
 ## DUSK
+[[Session 98]]
+- [[El Condor]] and [[Masym]] are about to get into it on the pit floor
+    - bets all around current odds 3:1
+        - Kholwin: 100gp
+        - Raith: 500gp
+    - [[El Condor]] is the victor!
+        - [[Masym]] gives him and immovable rod as a goodwill gesture for one hell of a donny brooke
 
 ## EVENING
 

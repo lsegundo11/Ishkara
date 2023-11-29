@@ -18,7 +18,7 @@
     - Adas: Male Halfling Wizard, Neutral. Adas has grey hair and light blue eyes, and a beaked nose. He wears golden robes and wields a quarterstaff. Adas is hunting the doppelganger which destroyed his homeland.
     - Maso Bolgee: Male Halfling Druid, Neutral. Maso has cropped white hair and green eyes, and a braided moustache. He wears leather armor and wields a club. Maso is quarreling with the innkeeper about their companion, a hawk named Mesym.
     - Grinarv: Female Dwarf Assassin, Neutral. Grinarv is tall and overweight, with cropped red hair and green eyes. She wears leather armor and wields a long sword and sling. Grinarv seeks to steal a legendary diamond from the Barrow of Unearthly Terror.
-    - [[Masym]]: Male Halfling Fighter, Evil. Masym has a square face, with cropped red hair and brown eyes. He wears chain mail and wields a flail. Masym serves a powerful arch-fiend named Leraie.
+    - [[Masym]]: Male Halfling Fighter, Evil. Masym has a square face, with cropped red hair and brown eyes. He wears chain mail and wields a flail. Masym serves a powerful arch-fiend named [[Laraie]].
 - Rumors:
     - The Conclave of Zepha are held captive within the Catacombs of Erilar the Treacherous, frozen in time by an evil lich.
     - The golem in the town square will answer questions, but only in the celestial tongue.

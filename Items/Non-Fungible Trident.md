@@ -1,0 +1,1 @@
+![[non-nungible-trident.webp]]

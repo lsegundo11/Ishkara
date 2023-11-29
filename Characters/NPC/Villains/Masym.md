@@ -7,7 +7,7 @@ tags:
 ![[masym-token.png|400]]
 
 ## Who am I
-- Male Halfling Fighter, Evil. Masym has a square face, with cropped red hair and brown eyes. He wears chain mail and wields a flail. Masym serves a powerful arch-fiend named Leraie. Fighter in the pit at [[The Broken Fang]].
+- Male Halfling Fighter (assasin), Evil. Masym has a square face, with cropped red hair and brown eyes. He wears chain mail and wields a flail. Masym serves a powerful arch-fiend named [[Laraie]]. Fighter in the pit at [[The Broken Fang]].
 
 ## Stats
 - AC: xx

@@ -1,0 +1,1 @@
+Laraie, called the Stalking Terror, was a demon lord associated with pursuit. What layer he ruled or dwelled upon was unrecorded.
