@@ -21,4 +21,5 @@
     - Oron: Male Elf Scholar, Evil. Oron has long copper hair and green eyes. He wears expensive clothing and an amulet of luminous crystal. Oron is mourning his son, who was killed by a warlock's curse.
     - Furi: Male Dwarf Aristocrat, Neutral. Furi has short white hair and grey eyes. He wears fine raiment and a feathered hat. Furi seeks opponents for a drinking contest.
 - Rumors:
-    - here
+    - there may be some disreputable magic items shere
+    - #TODO make some disreputable magic items

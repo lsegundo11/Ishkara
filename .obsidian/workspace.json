@@ -6,16 +6,53 @@
       {
         "id": "b31b7373bda62e37",
         "type": "tabs",
+        "dimension": 51.20574653668548,
         "children": [
           {
             "id": "1e6cc2f0dce4114d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Story/Diary/1-100/Day 83.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
+      },
+      {
+        "id": "f74d20f37085a179",
+        "type": "tabs",
+        "dimension": 48.79425346331452,
+        "children": [
+          {
+            "id": "b0f028f9e212f175",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 99.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bbbd9afc138e01c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Gauntlgrym.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: condo",
+                "query": "file: gaun",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -61,11 +98,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 418.5
+    "width": 324.5
   },
   "right": {
     "id": "aacc79ab6df312d1",
@@ -81,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Story/Diary/1-100/Day 83.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Story/Diary/1-100/Day 83.md"
+              }
             }
           },
           {
@@ -125,10 +166,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Story/Diary/1-100/Day 83.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,14 +191,25 @@
   },
   "active": "1e6cc2f0dce4114d",
   "lastOpenFiles": [
+    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Gauntlgrym.md",
+    "Sessions/Session 99.md",
+    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/The Broken Fang.md",
+    "Story/Diary/1-100/Day 83.md",
+    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/The Crimson Flask.md",
+    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Cata's Arsenal.md",
+    "Items/LightBringer.md",
+    "Items/Kholwin's apology Rado.md",
+    "Items/Gulthias Tree Clipping.md",
+    "Items/Dick of Klarg.md",
+    "Items/Diary of Jarlaxle Baenre.md",
+    "Items/Dawnbringer.md",
+    "Items/Belt of Dwarven Kind.md",
+    "Sessions/Session 98.md",
+    "Story/Diary/1-100/Day 84.md",
     "Characters/NPC/Villains/Masym.md",
     "World/Places/Vestal/Mith/Mith.md",
-    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Gauntlgrym.md",
-    "Story/Diary/1-100/Day 83.md",
-    "Sessions/Session 98.md",
     "Characters/NPC/Villains/Jeggred Baenre.md",
     "Characters/PC/El Condor.md",
-    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/The Broken Fang.md",
     "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Rado's Enchanted Caducetorium.md",
     "Items/Non-Fungible Trident.md",
     "Attachments/items/non-nungible-trident.webp",
@@ -163,27 +218,16 @@
     "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.02-Audience with Bruenor.md",
     "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.03-Guests at the Feast.md",
     "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.04-Iron Tabernacle.md",
-    "Characters/NPC/Villains/Laraie.md",
-    "Sessions/Session 97.md",
-    "Story/Diary/1-100/Day 84.md",
-    "Story/Diary/1-100/Untitled.md",
     "Attachments/npc/asha-vandree/asha-vandree-portrait.webp",
-    "Characters/NPC/Allies/Nundro Rockseeker.md",
     "Attachments/npc/nundro-rockseeker/nundro-rockseeker-token.png",
     "Attachments/npc/nundro-rockseeker/bruenor-battlehammer-token.png",
     "Attachments/npc/nundro-rockseeker",
-    "Characters/NPC/Allies/Gundren Rockseeker.md",
     "Attachments/npc/gundren-rockseeker/gundren-rockseeker.png",
     "Attachments/npc/gundren-rockseeker/bruenor-battlehammer-token.png",
-    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/The Crimson Flask.md",
     "Attachments/npc/esteban-the-horse/esteban-the-horse-portrait.jpg",
-    "Characters/NPC/Allies/Esteban the Horse.md",
     "Attachments/maps/vestal/ishkara/the_underdark/gauntlgrym/the_iron_fang.jpeg",
     "Attachments/npc/masym/masym-token.png",
     "Attachments/npc/masym",
-    "Items/Kholwin's apology Rado.md",
-    "Characters/PC/Ikros Silenttale.md",
-    "Characters/PC/Caldazar.md",
     "Attachments/npc/glasya/glasya-portrait.jpg",
     "Attachments/npc/esteban-the-horse",
     "Attachments/npc/esteban",

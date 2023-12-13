@@ -52,8 +52,13 @@
         - [[Masym]] gives him and immovable rod as a goodwill gesture for one hell of a donny brooke
 
 ## EVENING
+[[Session 99]]
+- the party is drunk at [[The Broken Fang]]
+    - 
 
 ## MIDNIGHT
+- party is still very drunk in the bar
+- now very drunk in the streets of [[Gauntlgrym]]
 
 ## PRE-DAWN
 
