@@ -59,8 +59,12 @@
 ## MIDNIGHT
 - party is still very drunk in the bar
 - now very drunk in the streets of [[Gauntlgrym]]
+- they hired the horse-titute to sleep (actually sleep) with [[Theoc Shadowsbane]]
 
 ## PRE-DAWN
+[[Session 100]]
+- they have returned to [[The Axe of Lightning]]
+- they have retired to their rooms
 
 ___
 # Notes
