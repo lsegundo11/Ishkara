@@ -6,10 +6,10 @@
       {
         "id": "b31b7373bda62e37",
         "type": "tabs",
-        "dimension": 42.32939969214981,
+        "dimension": 42.329399692149806,
         "children": [
           {
-            "id": "a5f8c859f39ba4d6",
+            "id": "2f8c08cbb0fe29cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,13 +19,37 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "951c71402ccc41e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Places/Vestal/Ishkara/Sciana/The Sword Cost/Wave Echo Cave/Wave Echo Cave.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2b57e867a6a463fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/PC/Kholwin.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ]
       },
       {
         "id": "f74d20f37085a179",
         "type": "tabs",
-        "dimension": 57.67060030785019,
+        "dimension": 57.670600307850194,
         "children": [
           {
             "id": "e07b21389620bd63",
@@ -33,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 101.md",
+                "file": "Sessions/Session 102.md",
                 "mode": "source",
                 "source": true
               }
@@ -50,9 +74,32 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "60225492194e3477",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/The Axe of Lightning.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d833e9fa03d7d863",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/The Royal Pegasus.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: kho",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -190,14 +237,23 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "a5f8c859f39ba4d6",
+  "active": "2f8c08cbb0fe29cb",
   "lastOpenFiles": [
-    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/The Iron Tabernacle.md",
+    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.02-Audience with Bruenor.md",
+    "World/Glossary/OOC/Tags.md",
+    "Sessions/Session 102.md",
+    "Characters/PC/Kholwin.md",
+    "Characters/PC/El Condor.md",
     "Story/Diary/1-100/Day 84.md",
+    "Items/Dawnbringer.md",
+    "World/Places/Vestal/Ishkara/Sciana/The Sword Cost/Wave Echo Cave/Wave Echo Cave.md",
+    "Story/Plots/S01-The Baenre Conspiracy/S01.01-Lost Mine of Phandelver/S01.01-Lost Mine of Phandelver.md",
+    "Characters/NPC/Allies/Nundro Rockseeker.md",
+    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/The Axe of Lightning.md",
     "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Gauntlgrym.md",
     "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/The Royal Pegasus.md",
     "Sessions/Session 101.md",
-    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/The Axe of Lightning.md",
+    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/The Iron Tabernacle.md",
     "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Rado's Enchanted Caducetorium.md",
     "Story/Diary/1-100/Day 83.md",
     "Sessions/Session 100.md",
@@ -209,15 +265,6 @@
     "Items/Kholwin's apology Rado.md",
     "Items/Gulthias Tree Clipping.md",
     "Items/Dick of Klarg.md",
-    "Items/Diary of Jarlaxle Baenre.md",
-    "Items/Dawnbringer.md",
-    "Items/Belt of Dwarven Kind.md",
-    "Sessions/Session 98.md",
-    "Characters/NPC/Villains/Masym.md",
-    "World/Places/Vestal/Mith/Mith.md",
-    "Characters/NPC/Villains/Jeggred Baenre.md",
-    "Characters/PC/El Condor.md",
-    "Items/Non-Fungible Trident.md",
     "Attachments/items/non-nungible-trident.webp",
     "Attachments/npc/asha-vandree/asha-vandree-portrait.webp",
     "Attachments/npc/nundro-rockseeker/nundro-rockseeker-token.png",

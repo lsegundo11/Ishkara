@@ -28,7 +28,9 @@ Character sheet: [Kholwin](https://www.dndbeyond.com/characters/25408582)
 - Passive Insight: 16  
 - Darkvision: 60ft  
 
+
 - **Corruption: **
+    - Corruption: 1 point
 
 ### Langauges
 Common, Deep Speech, Druidic, Elvish, Orc

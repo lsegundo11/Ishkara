@@ -17,6 +17,10 @@
 
 ## AFTERNOON
 - audience with [[Bruenor Battlehammer]] ([[S01.02.06.02-Audience with Bruenor]])
+- Fight against [[Jeggred Baenre]] in the Chamber!
+    - SA was vicotorious!
+    - [[Jeggred Baenre]] is captured
+    - [[Raith]] is rifling the body surreptitiously (rolled a 19)
 
 ## DUSK
 

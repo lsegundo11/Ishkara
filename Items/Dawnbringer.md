@@ -17,4 +17,4 @@ Long years lost in darkness have made Dawnbringer frightened of both the dark an
 Proficiency with a longsword allows you to add your proficiency bonus to the attack roll for any attack you make with it.
 
  ## Notes:
- Currently in the possession of [[Caldazar]]
+ Currently in the possession of [[Raith]]
