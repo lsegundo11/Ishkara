@@ -13,6 +13,7 @@
 - headed to [[Rado's Enchanted Caducetorium]]
     - got a sidequest to get some Drider Eye's 
     - Gonna go to [[The Copper Hammer]] and try to buy some form the same person (barmaid) that [[Rado]] tried to buy them from
+        - that didn't work and the dude said that they gotta go to the caverns below [[The Iron Tabernacle]]
 
 ## AFTERNOON
 - audience with [[Bruenor Battlehammer]] ([[S01.02.06.02-Audience with Bruenor]])

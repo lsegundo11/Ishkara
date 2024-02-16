@@ -6,7 +6,7 @@
       {
         "id": "b31b7373bda62e37",
         "type": "tabs",
-        "dimension": 42.32939969214982,
+        "dimension": 42.32939969214981,
         "children": [
           {
             "id": "a5f8c859f39ba4d6",
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Gauntlgrym.md",
+                "file": "Story/Diary/1-100/Day 84.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Gauntlgrym.md"
+                "file": "Story/Diary/1-100/Day 84.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Gauntlgrym.md"
+                "file": "Story/Diary/1-100/Day 84.md"
               }
             }
           }
@@ -190,15 +190,16 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "bbbd9afc138e01c0",
+  "active": "a5f8c859f39ba4d6",
   "lastOpenFiles": [
+    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/The Iron Tabernacle.md",
+    "Story/Diary/1-100/Day 84.md",
+    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Gauntlgrym.md",
     "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/The Royal Pegasus.md",
+    "Sessions/Session 101.md",
     "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/The Axe of Lightning.md",
     "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Rado's Enchanted Caducetorium.md",
-    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Gauntlgrym.md",
-    "Story/Diary/1-100/Day 84.md",
     "Story/Diary/1-100/Day 83.md",
-    "Sessions/Session 101.md",
     "Sessions/Session 100.md",
     "Sessions/Session 99.md",
     "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/The Broken Fang.md",
@@ -218,7 +219,6 @@
     "Characters/PC/El Condor.md",
     "Items/Non-Fungible Trident.md",
     "Attachments/items/non-nungible-trident.webp",
-    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.05-The Royal Pegasus.md",
     "Attachments/npc/asha-vandree/asha-vandree-portrait.webp",
     "Attachments/npc/nundro-rockseeker/nundro-rockseeker-token.png",
     "Attachments/npc/nundro-rockseeker/bruenor-battlehammer-token.png",
