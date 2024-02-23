@@ -9,6 +9,7 @@ tags:
 Character sheet: [Raith](https://www.dndbeyond.com/characters/25890065)
 
 ## Who Am I
+the spider slayer
 
 ## Stats
 - AC: 18

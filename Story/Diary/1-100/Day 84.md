@@ -11,7 +11,7 @@
 [[Session 101]]
 - [[Kholwin]] has paid the horstitue (3 gold!)
 - headed to [[Rado's Enchanted Caducetorium]]
-    - got a sidequest to get some Drider Eye's 
+    - got a sidequest to get some (4) Drider Eye's 
     - Gonna go to [[The Copper Hammer]] and try to buy some form the same person (barmaid) that [[Rado]] tried to buy them from
         - that didn't work and the dude said that they gotta go to the caverns below [[The Iron Tabernacle]]
 
@@ -21,10 +21,21 @@
     - SA was vicotorious!
     - [[Jeggred Baenre]] is captured
     - [[Raith]] is rifling the body surreptitiously (rolled a 19)
+    
+    [[Session 103]]
+    - fighting a drider
+        - defeated: [[Ikros Silenttale]] took her sword, [[The Wolf’s Fang]]
+            - he doesn't exactly know what it is
+    - fighting another
+        - defeated
+        - took the eyes
+            - now have enough to fill [[Rado]]'s request
+ 
 
 ## DUSK
 
 ## EVENING
+- dinner with [[Bruenor Battlehammer]] and his guests
 
 ## MIDNIGHT
 

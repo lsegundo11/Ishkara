@@ -44,7 +44,7 @@ PC's:
     4. [x] the way out at [[Gracklstugh]] is shut! #SecretAndClues/S01-TheBaenreConspiracy 
     5.  [ ] the party will need to find a way to read the [[Jarlaxle Baenre]]'s diary #SecretAndClues/S01-TheBaenreConspiracy 
     6. [ ] [[Jarlaxle Baenre]] and a horde of invaders from [[The Underdark]] killed [[El Condor]]'s family as part of a hunting raid on their way to [[Luskan]] #SecretAndClues/S01-TheBaenreConspiracy
-    7. [ ] [[Jeggred Baenre]] recognizes [[El Condor]] and knows who killed his family, his uncle [[Jarlaxle Baenre]]. #SecretAndClues/S01-TheBaenreConspiracy  
+    7. [x] [[Jeggred Baenre]] recognizes [[El Condor]] and knows who killed his family, his uncle [[Jarlaxle Baenre]]. #SecretAndClues/S01-TheBaenreConspiracy  
 
 
 
