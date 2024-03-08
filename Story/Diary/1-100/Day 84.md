@@ -29,7 +29,13 @@
     - fighting another
         - defeated
         - took the eyes
-            - now have enough to fill [[Rado]]'s request
+            - now have enough to fill [[Rado]]'s request!!
+    
+    [[Session 104]]
+    - headed back to [[Rado]]'s place to exchange the drider eye's
+    - bought some stuff from him
+        - theoc got the sickle of warning
+        - kholwin got the wand of magic magic detection, the wand of secrets, and the wand of the war mage
  
 
 ## DUSK
