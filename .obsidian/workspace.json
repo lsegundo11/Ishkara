@@ -4,59 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8a1dacf7acf4ae8e",
+        "id": "0e9877d90f3a14d3",
         "type": "tabs",
         "children": [
           {
-            "id": "760378c6b1f7bee6",
+            "id": "e61508b64268f3e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Diary/1-100/Day 84.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "382a8d0b5b28ad02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Gauntlgrym.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "3efbe85936e85f77",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "efcee2194da7071d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Session 104.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "097c344653163060",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.03-Guests at the Feast.md",
+                "file": "Sessions/Session 106.md",
                 "mode": "preview",
                 "source": true
               }
@@ -128,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 104.md",
+                "file": "Sessions/Session 106.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +113,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Sessions/Session 104.md"
+                "file": "Sessions/Session 106.md"
               }
             }
           },
@@ -178,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 104.md"
+                "file": "Sessions/Session 106.md"
               }
             }
           }
@@ -200,34 +157,34 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "efcee2194da7071d",
+  "active": "e61508b64268f3e1",
   "lastOpenFiles": [
     "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.03-Guests at the Feast.md",
+    "Characters/PC/El Condor.md",
     "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Gauntlgrym.md",
-    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Rado's Enchanted Caducetorium.md",
-    "Sessions/Session 104.md",
     "Story/Diary/1-100/Day 84.md",
+    "Sessions/Session 106.md",
+    "Sessions/Session 105.md",
+    "World/Places/Vestal/Ishkara/Sciana/The Sword Cost/Luskan/Luskan.md",
+    "World/Politics/Order of the Gauntlet/Order of the Gauntlet.md",
+    "Characters/PC/Raith.md",
+    "Characters/PC/Kholwin.md",
+    "Characters/PC/Ikros Silenttale.md",
+    "Characters/PC/Caldazar.md",
+    "Sessions/Session 104.md",
+    "World/Places/Vestal/Ishkara/Sciana/The Sword Cost/NeverWinter/The Sleeping Dragon/The Sleeping Dragon.md",
+    "World/Places/Vestal/Ishkara/Sciana/The Sword Cost/NeverWinter/NeverWinter.md",
+    "World/Politics/Zhentarim/Zhentarim.md",
+    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02-The Maiden, The Mother, The Crone.md",
+    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06-Gauntlgrym.md",
+    "Characters/NPC/Villains/Jeggred Baenre.md",
+    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Rado's Enchanted Caducetorium.md",
     "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.07-Escape/S01.02.07-Escape.md",
     "Sessions/Session 103.md",
-    "Characters/PC/Raith.md",
     "Items/The Wolf’s Fang.md",
     "Story/Diary/1-100/Day 70.md",
     "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.02-Into Darkness/S01.02.02-Encounters/S01.02.02E04 - The Lost Tomb of Khaem Encounter.md",
-    "Characters/PC/Kholwin.md",
     "Items/LightBringer.md",
-    "Characters/PC/El Condor.md",
-    "Story/Diary/1-100/Day 66.md",
-    "Characters/PC/Caldazar.md",
-    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.02-Audience with Bruenor.md",
-    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06-Gauntlgrym.md",
-    "Characters/NPC/Villains/Jeggred Baenre.md",
-    "Sessions/Session 102.md",
-    "World/Glossary/OOC/Tags.md",
-    "Items/Dawnbringer.md",
-    "World/Places/Vestal/Ishkara/Sciana/The Sword Cost/Wave Echo Cave/Wave Echo Cave.md",
-    "Story/Plots/S01-The Baenre Conspiracy/S01.01-Lost Mine of Phandelver/S01.01-Lost Mine of Phandelver.md",
-    "Characters/NPC/Allies/Nundro Rockseeker.md",
-    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/The Axe of Lightning.md",
     "Attachments/items/non-nungible-trident.webp",
     "Attachments/npc/asha-vandree/asha-vandree-portrait.webp",
     "Attachments/npc/nundro-rockseeker/nundro-rockseeker-token.png",

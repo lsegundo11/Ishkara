@@ -36,12 +36,27 @@
     - bought some stuff from him
         - theoc got the sickle of warning
         - kholwin got the wand of magic magic detection, the wand of secrets, and the wand of the war mage
+    [[Session 105]]
+        - headed to dinner
  
 
 ## DUSK
+- dinner it is!
+    - headed towards dinner
+    - dinner was good
+        - [[Sildar Hallwinter]] is under suspicion from a Divine Sense spell form
 
 ## EVENING
 - dinner with [[Bruenor Battlehammer]] and his guests
+    - a fight breaks out!
+    - [[Sildar Hallwinter]] appears to be an assassin
+    - [[Davra Jassur]] appears to be an assassin
+    - [[Bruenor Battlehammer]] is hurt!
+    - the battle continues
+    [[Session 106]]
+    - [[Sildar Hallwinter]] is being tied up
+        - stole a tablecloth to hog tie him
+        - knocked out both "Sildar" and "Davra"
 
 ## MIDNIGHT
 
