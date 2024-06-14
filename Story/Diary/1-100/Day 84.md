@@ -57,8 +57,18 @@
     - [[Sildar Hallwinter]] is being tied up
         - stole a tablecloth to hog tie him
         - knocked out both "Sildar" and "Davra"
+    [[Session 107]]
+    - [[Sildar Hallwinter]] has been shown to be an Assassin in disguise
+    - [[Davra Jassur]] is unconscious
 
 ## MIDNIGHT
+- the team is caught torturing its prisoners
+    - [[Bruenor Battlehammer]] has banished them from [[Gauntlgrym]]
+    - the team has until sundown tomorrow to vacate the city
+    - [[Ikros Silenttale]] has acquired a point of Rage corruption
+        - Tempremental
+    - [[Raith]] has acquired a point of Rage corruption
+        - cruel
 
 ## PRE-DAWN
 

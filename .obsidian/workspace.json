@@ -13,7 +13,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 106.md",
+                "file": "Story/Diary/1-100/Day 84.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "32fb16786bab2069",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.03-Guests at the Feast.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "469be2fd784e33ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Gauntlgrym.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "e44a7436e0157fd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6484f41b8fc651f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 107.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "460a51e0608ee831",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Politics/Bregan D'aerthe/Bregan D'aerthe.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1eb74e65a8f2d44a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/NPC/Allies/Davra Jassur.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 106.md",
+                "file": "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Gauntlgrym.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Sessions/Session 106.md"
+                "file": "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Gauntlgrym.md"
               }
             }
           },
@@ -135,12 +202,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 106.md"
+                "file": "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Gauntlgrym.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,13 +223,17 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "e61508b64268f3e1",
+  "active": "469be2fd784e33ce",
   "lastOpenFiles": [
     "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.03-Guests at the Feast.md",
+    "Characters/NPC/Allies/Bruenor Battlehammer.md",
+    "Story/Diary/1-100/Day 84.md",
+    "Sessions/Session 107.md",
+    "World/Politics/Bregan D'aerthe/Bregan D'aerthe.md",
+    "Characters/NPC/Allies/Davra Jassur.md",
+    "Sessions/Session 106.md",
     "Characters/PC/El Condor.md",
     "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Gauntlgrym.md",
-    "Story/Diary/1-100/Day 84.md",
-    "Sessions/Session 106.md",
     "Sessions/Session 105.md",
     "World/Places/Vestal/Ishkara/Sciana/The Sword Cost/Luskan/Luskan.md",
     "World/Politics/Order of the Gauntlet/Order of the Gauntlet.md",
@@ -181,10 +251,6 @@
     "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Rado's Enchanted Caducetorium.md",
     "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.07-Escape/S01.02.07-Escape.md",
     "Sessions/Session 103.md",
-    "Items/The Wolf’s Fang.md",
-    "Story/Diary/1-100/Day 70.md",
-    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.02-Into Darkness/S01.02.02-Encounters/S01.02.02E04 - The Lost Tomb of Khaem Encounter.md",
-    "Items/LightBringer.md",
     "Attachments/items/non-nungible-trident.webp",
     "Attachments/npc/asha-vandree/asha-vandree-portrait.webp",
     "Attachments/npc/nundro-rockseeker/nundro-rockseeker-token.png",
