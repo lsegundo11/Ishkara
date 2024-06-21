@@ -122,3 +122,4 @@ Hair|Black
 Eyes|Brown
 Skin|
 Weight|
+Religion|Kelemvor - god of the dead

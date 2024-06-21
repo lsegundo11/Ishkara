@@ -70,6 +70,8 @@ All tracks eventually lead to a switching station in the Iron Tabernacle. There,
 
 - Majority Religion: Morndinsamman (dwarven pantheon)
 - Primary god(s): [[Moradin]]
+### Temples
+- [[Temple of Kelemvor]]
 
 ## Culture
 

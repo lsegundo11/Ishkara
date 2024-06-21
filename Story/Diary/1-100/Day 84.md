@@ -69,6 +69,7 @@
         - Tempremental
     - [[Raith]] has acquired a point of Rage corruption
         - cruel
+    [[session 108]]
 
 ## PRE-DAWN
 
