@@ -4,15 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "d3c570c9aadda548",
+        "id": "319e9c2b87f6d57c",
         "type": "tabs",
         "children": [
           {
-            "id": "f3c13498ef5b547a",
+            "id": "cde0d9b45ae61291",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Story/Diary/1-100/Day 85.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "abd1c1a5b00bda45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "652b4ac325ff5556",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 110.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Story/Diary/1-100/Day 85.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Story/Diary/1-100/Day 85.md"
+              }
             }
           },
           {
@@ -127,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Story/Diary/1-100/Day 85.md"
+              }
             }
           }
         ]
@@ -147,15 +174,16 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "f3c13498ef5b547a",
+  "active": "cde0d9b45ae61291",
   "lastOpenFiles": [
+    "Story/Diary/1-100/Day 84.md",
     "Story/Diary/1-100/Day 85.md",
-    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Gauntlgrym.md",
+    "Sessions/Session 110.md",
     "Sessions/Session 109.md",
+    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Gauntlgrym.md",
     "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Temple of Kelemvor.md",
     "Characters/NPC/Neutral/Cora.md",
     "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.03-Guests at the Feast.md",
-    "Story/Diary/1-100/Day 84.md",
     "Sessions/Session 108.md",
     "Characters/PC/El Condor.md",
     "World/Politics/Lords Alliance/Lords Alliance.md",
@@ -174,7 +202,6 @@
     "Characters/PC/Caldazar.md",
     "Sessions/Session 104.md",
     "World/Places/Vestal/Ishkara/Sciana/The Sword Cost/NeverWinter/The Sleeping Dragon/The Sleeping Dragon.md",
-    "World/Places/Vestal/Ishkara/Sciana/The Sword Cost/NeverWinter/NeverWinter.md",
     "Attachments/items/non-nungible-trident.webp",
     "Attachments/npc/asha-vandree/asha-vandree-portrait.webp",
     "Attachments/npc/nundro-rockseeker/nundro-rockseeker-token.png",
