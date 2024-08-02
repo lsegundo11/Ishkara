@@ -11,8 +11,30 @@
             "id": "b3b431045123cecd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Story/Diary/1-100/Day 85.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "dd9f9ced463a8ae1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebd239bfded19c84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 111.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -61,8 +83,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Story/Diary/1-100/Day 85.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Story/Diary/1-100/Day 85.md"
+              }
             }
           },
           {
@@ -128,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Story/Diary/1-100/Day 85.md"
+              }
             }
           }
         ]
@@ -150,10 +176,10 @@
   },
   "active": "b3b431045123cecd",
   "lastOpenFiles": [
+    "Sessions/Session 111.md",
     "Story/Diary/1-100/Day 85.md",
     "Characters/PC/El Condor.md",
     "Characters/NPC/Villains/Rado.md",
-    "Sessions/Session 111.md",
     "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Rado's Enchanted Caducetorium.md",
     "Items/Kholwin's apology Rado.md",
     "Characters/PC/Urimus.md",
