@@ -10,6 +10,12 @@
         - the dogs warned him not to trust the cats!!
     - [[Ikros Silenttale|Ikros]] and [[Raith]] noticed [[Rado]] watching them from the mouth of the tunnel/cavern they are in
 
+[[Session 110]]
+    - the party is continuing to duke it up with the fire elementals
+    - not a whole lot happened. was a damn good time though
+[[Session 111]]
+    - and back to the fire elementals!
+
 
 ## AFTERNOON
 

@@ -4,37 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "319e9c2b87f6d57c",
+        "id": "2a0734e04bce2fdf",
         "type": "tabs",
         "children": [
           {
-            "id": "cde0d9b45ae61291",
+            "id": "b3b431045123cecd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Story/Diary/1-100/Day 85.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "abd1c1a5b00bda45",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "652b4ac325ff5556",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Session 110.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -66,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lightbrin",
+                "query": "file:condo",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -83,11 +61,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 248.5
   },
   "right": {
     "id": "aacc79ab6df312d1",
@@ -103,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/Diary/1-100/Day 85.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,9 +108,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Story/Diary/1-100/Day 85.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,16 +128,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Story/Diary/1-100/Day 85.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,34 +148,34 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "cde0d9b45ae61291",
+  "active": "b3b431045123cecd",
   "lastOpenFiles": [
-    "Story/Diary/1-100/Day 84.md",
     "Story/Diary/1-100/Day 85.md",
-    "Sessions/Session 110.md",
+    "Characters/PC/El Condor.md",
+    "Characters/NPC/Villains/Rado.md",
+    "Sessions/Session 111.md",
+    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Rado's Enchanted Caducetorium.md",
+    "Items/Kholwin's apology Rado.md",
+    "Characters/PC/Urimus.md",
+    "Characters/PC/Theoc Shadowsbane.md",
+    "Characters/PC/Raith.md",
+    "Characters/PC/Kholwin.md",
+    "Characters/PC/Ikros Silenttale.md",
+    "Characters/PC/Caldazar.md",
     "Sessions/Session 109.md",
+    "Sessions/Session 72.md",
+    "Sessions/Session 110.md",
+    "Story/Diary/1-100/Day 84.md",
     "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Gauntlgrym.md",
     "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Temple of Kelemvor.md",
     "Characters/NPC/Neutral/Cora.md",
     "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.03-Guests at the Feast.md",
     "Sessions/Session 108.md",
-    "Characters/PC/El Condor.md",
     "World/Politics/Lords Alliance/Lords Alliance.md",
     "World/Places/Vestal/Ishkara/Sciana/Sciana.md",
     "World/Politics/Bregan D'aerthe/Bregan D'aerthe.md",
     "Characters/NPC/Allies/Davra Jassur.md",
     "Sessions/Session 107.md",
-    "Characters/NPC/Allies/Bruenor Battlehammer.md",
-    "Sessions/Session 106.md",
-    "Sessions/Session 105.md",
-    "World/Places/Vestal/Ishkara/Sciana/The Sword Cost/Luskan/Luskan.md",
-    "World/Politics/Order of the Gauntlet/Order of the Gauntlet.md",
-    "Characters/PC/Raith.md",
-    "Characters/PC/Kholwin.md",
-    "Characters/PC/Ikros Silenttale.md",
-    "Characters/PC/Caldazar.md",
-    "Sessions/Session 104.md",
-    "World/Places/Vestal/Ishkara/Sciana/The Sword Cost/NeverWinter/The Sleeping Dragon/The Sleeping Dragon.md",
     "Attachments/items/non-nungible-trident.webp",
     "Attachments/npc/asha-vandree/asha-vandree-portrait.webp",
     "Attachments/npc/nundro-rockseeker/nundro-rockseeker-token.png",
