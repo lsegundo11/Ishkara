@@ -8,6 +8,8 @@ tags:
 
 Character sheet: [Kholwin](https://www.dndbeyond.com/characters/25408582)
 
+loves cave people
+
 ## Who am I
 
 ## Stats

@@ -5,7 +5,7 @@ tags:
 
 # Raith
 ![[raith-portrait.jpg|200]]
-
+just ripped off his own nipple rings and swallowed them like tylenol
 Character sheet: [Raith](https://www.dndbeyond.com/characters/25890065)
 
 ## Who Am I

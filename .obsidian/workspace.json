@@ -8,14 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6c871fc08d2e5964",
+            "id": "f7fa9cfd3708b802",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Story/Diary/1-100/Day 85.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
+      },
+      {
+        "id": "66aac58d74695146",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "daddfb90477c1f18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 112.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "54abecef05301720",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/PC/Kholwin.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/PC/Kholwin.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Characters/PC/Kholwin.md"
+              }
             }
           },
           {
@@ -127,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Characters/PC/Kholwin.md"
+              }
             }
           }
         ]
@@ -147,8 +187,10 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "6c871fc08d2e5964",
+  "active": "54abecef05301720",
   "lastOpenFiles": [
+    "Characters/PC/Raith.md",
+    "Story/Diary/1-100/Day 84.md",
     "Sessions/Session 112.md",
     "Story/Diary/1-100/Day 85.md",
     "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Gauntlgrym.md",
@@ -159,14 +201,12 @@
     "Items/Kholwin's apology Rado.md",
     "Characters/PC/Urimus.md",
     "Characters/PC/Theoc Shadowsbane.md",
-    "Characters/PC/Raith.md",
     "Characters/PC/Kholwin.md",
     "Characters/PC/Ikros Silenttale.md",
     "Characters/PC/Caldazar.md",
     "Sessions/Session 109.md",
     "Sessions/Session 72.md",
     "Sessions/Session 110.md",
-    "Story/Diary/1-100/Day 84.md",
     "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Temple of Kelemvor.md",
     "Characters/NPC/Neutral/Cora.md",
     "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.03-Guests at the Feast.md",
