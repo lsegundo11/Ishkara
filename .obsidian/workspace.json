@@ -26,31 +26,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "daddfb90477c1f18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Session 112.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "54abecef05301720",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/PC/Kholwin.md",
+                "file": "Sessions/Session 113.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/PC/Kholwin.md",
+                "file": "Story/Diary/1-100/Day 85.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Characters/PC/Kholwin.md"
+                "file": "Story/Diary/1-100/Day 85.md"
               }
             }
           },
@@ -166,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/PC/Kholwin.md"
+                "file": "Story/Diary/1-100/Day 85.md"
               }
             }
           }
@@ -187,21 +174,22 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "54abecef05301720",
+  "active": "f7fa9cfd3708b802",
   "lastOpenFiles": [
+    "Characters/PC/El Condor.md",
+    "Story/Diary/1-100/Day 85.md",
+    "Sessions/Session 113.md",
+    "Sessions/Session 112.md",
+    "Characters/PC/Kholwin.md",
     "Characters/PC/Raith.md",
     "Story/Diary/1-100/Day 84.md",
-    "Sessions/Session 112.md",
-    "Story/Diary/1-100/Day 85.md",
     "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Gauntlgrym.md",
     "Sessions/Session 111.md",
-    "Characters/PC/El Condor.md",
     "Characters/NPC/Villains/Rado.md",
     "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Rado's Enchanted Caducetorium.md",
     "Items/Kholwin's apology Rado.md",
     "Characters/PC/Urimus.md",
     "Characters/PC/Theoc Shadowsbane.md",
-    "Characters/PC/Kholwin.md",
     "Characters/PC/Ikros Silenttale.md",
     "Characters/PC/Caldazar.md",
     "Sessions/Session 109.md",
@@ -214,7 +202,6 @@
     "World/Politics/Lords Alliance/Lords Alliance.md",
     "World/Places/Vestal/Ishkara/Sciana/Sciana.md",
     "World/Politics/Bregan D'aerthe/Bregan D'aerthe.md",
-    "Characters/NPC/Allies/Davra Jassur.md",
     "Attachments/items/non-nungible-trident.webp",
     "Attachments/npc/asha-vandree/asha-vandree-portrait.webp",
     "Attachments/npc/nundro-rockseeker/nundro-rockseeker-token.png",

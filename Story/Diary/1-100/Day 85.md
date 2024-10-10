@@ -11,7 +11,6 @@
     - [[Ikros Silenttale|Ikros]] and [[Raith]] noticed [[Rado]] watching them from the mouth of the tunnel/cavern they are in
 
 [[Session 110]]
-
 - the party is continuing to duke it up with the fire elementals
 - not a whole lot happened. was a damn good time though
 
@@ -22,6 +21,12 @@
 [[Session 112]]
 - oh boy...here we go!
 - we are still outside [[The Great Forge]] in [[Gauntlgrym]]
+
+[[Session 113]]
+- oh boy...here we go!
+- we are still outside [[The Great Forge]] in [[Gauntlgrym]]
+- back in the forge...found the elementals in a sort of trance
+- now attacking the cult worshipers that seem to be controlling the forge
 
 ## AFTERNOON
 
