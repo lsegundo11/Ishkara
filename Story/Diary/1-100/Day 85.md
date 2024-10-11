@@ -28,6 +28,11 @@
 - back in the forge...found the elementals in a sort of trance
 - now attacking the cult worshipers that seem to be controlling the forge
 
+[[Session 114]]
+- defeated the trog and the doppleganger
+- now the elementals are ADVANCING!!
+    - they are gonna be friendly
+
 ## AFTERNOON
 
 ## DUSK

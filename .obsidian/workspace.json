@@ -22,11 +22,23 @@
         ]
       },
       {
-        "id": "66aac58d74695146",
+        "id": "08b44e7449908bc1",
         "type": "tabs",
         "children": [
           {
-            "id": "54abecef05301720",
+            "id": "06770ee699c07726",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 114.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "421df0ebeb3e8582",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -176,9 +188,10 @@
   },
   "active": "f7fa9cfd3708b802",
   "lastOpenFiles": [
-    "Characters/PC/El Condor.md",
-    "Story/Diary/1-100/Day 85.md",
+    "Sessions/Session 114.md",
     "Sessions/Session 113.md",
+    "Story/Diary/1-100/Day 85.md",
+    "Characters/PC/El Condor.md",
     "Sessions/Session 112.md",
     "Characters/PC/Kholwin.md",
     "Characters/PC/Raith.md",
@@ -201,7 +214,6 @@
     "Sessions/Session 108.md",
     "World/Politics/Lords Alliance/Lords Alliance.md",
     "World/Places/Vestal/Ishkara/Sciana/Sciana.md",
-    "World/Politics/Bregan D'aerthe/Bregan D'aerthe.md",
     "Attachments/items/non-nungible-trident.webp",
     "Attachments/npc/asha-vandree/asha-vandree-portrait.webp",
     "Attachments/npc/nundro-rockseeker/nundro-rockseeker-token.png",
