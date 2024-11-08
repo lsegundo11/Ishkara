@@ -74,7 +74,7 @@ We don't talk about that.
 - Half-Elf Druid
 - [[Watcher]](Member) of the [[Harpers]]
 - [[Day 50]] Kholwin is gonna start amassing corruption
-  - Current Corruption Level: 0pts
+  - Current Corruption Level: 2pts with the cruel effect
 
 ___
 # Detailed Info:

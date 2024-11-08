@@ -34,6 +34,11 @@
     - they are gonna be friendly
 
 ## AFTERNOON
+[[Session 115]]
+- elementals are coming up on em....radu in the wings
+- gonna find out from the fake king that [[Bruenor Battlehammer]] is on his way to 
+- fought Radu/druskyn
+    - found out that [[Bruenor Battlehammer]] is on the way to neverwinter
 
 ## DUSK
 

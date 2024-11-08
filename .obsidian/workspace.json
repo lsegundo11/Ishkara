@@ -4,49 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f4baf06791e30fa2",
+        "id": "397b6a8323b27563",
         "type": "tabs",
         "children": [
           {
-            "id": "f7fa9cfd3708b802",
+            "id": "68b618b511e31b4f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Story/Diary/1-100/Day 85.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "08b44e7449908bc1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "06770ee699c07726",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Session 114.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "421df0ebeb3e8582",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Session 113.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -115,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/Diary/1-100/Day 85.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Story/Diary/1-100/Day 85.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Story/Diary/1-100/Day 85.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -186,14 +147,17 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "f7fa9cfd3708b802",
+  "active": "68b618b511e31b4f",
   "lastOpenFiles": [
+    "Story/Diary/1-100/Day 85.md",
+    "Story/Plots/S01-The Baenre Conspiracy/S01-The Baenre Conspiracy.md",
+    "Characters/PC/Kholwin.md",
+    "Characters/PC/El Condor.md",
+    "Sessions/Session 115.md",
     "Sessions/Session 114.md",
     "Sessions/Session 113.md",
-    "Story/Diary/1-100/Day 85.md",
-    "Characters/PC/El Condor.md",
+    "Characters/NPC/Villains/Jarlaxle Baenre.md",
     "Sessions/Session 112.md",
-    "Characters/PC/Kholwin.md",
     "Characters/PC/Raith.md",
     "Story/Diary/1-100/Day 84.md",
     "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Gauntlgrym.md",
@@ -211,9 +175,6 @@
     "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Temple of Kelemvor.md",
     "Characters/NPC/Neutral/Cora.md",
     "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.03-Guests at the Feast.md",
-    "Sessions/Session 108.md",
-    "World/Politics/Lords Alliance/Lords Alliance.md",
-    "World/Places/Vestal/Ishkara/Sciana/Sciana.md",
     "Attachments/items/non-nungible-trident.webp",
     "Attachments/npc/asha-vandree/asha-vandree-portrait.webp",
     "Attachments/npc/nundro-rockseeker/nundro-rockseeker-token.png",
