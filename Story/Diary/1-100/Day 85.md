@@ -41,7 +41,14 @@
     - found out that [[Bruenor Battlehammer]] is on the way to neverwinter
 
 ## DUSK
-
+[[Session 116]]
+- it has been a long time
+- they have defeated the imposter [[Bruenor Battlehammer]] found out he was a doppleganger....spilled the beans. [[Sidiqi Adventures|SA]] know that [[Bruenor Battlehammer]] is on the way to [[Wave Echo Cave]]!
+- they have chased [[Rado]] into the thrown room......about to fight
+- here we go!
+    - hes grappled by [[El Condor]]
+    - fucking up [[Raith]]
+    - 
 ## EVENING
 
 ## MIDNIGHT

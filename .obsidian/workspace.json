@@ -6,16 +6,59 @@
       {
         "id": "397b6a8323b27563",
         "type": "tabs",
+        "dimension": 50.910364145658264,
         "children": [
           {
-            "id": "68b618b511e31b4f",
+            "id": "dc15160c87c5bdc9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Story/Diary/1-100/Day 85.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Day 85"
             }
           }
         ]
+      },
+      {
+        "id": "16776411b60372b0",
+        "type": "tabs",
+        "dimension": 49.089635854341736,
+        "children": [
+          {
+            "id": "4e821f9374ae3d60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 116.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Session 116"
+            }
+          },
+          {
+            "id": "aea129d91697ec4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/NPC/Villains/Jeggred Baenre.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Jeggred Baenre"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -35,7 +78,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -44,13 +89,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:condo",
+                "query": "dantr",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -81,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Story/Diary/1-100/Day 85.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +138,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Day 85"
             }
           },
           {
@@ -99,7 +151,9 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -107,7 +161,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Story/Diary/1-100/Day 85.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Day 85"
             }
           },
           {
@@ -119,7 +177,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -127,7 +187,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Story/Diary/1-100/Day 85.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Day 85"
             }
           }
         ]
@@ -147,16 +211,18 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "68b618b511e31b4f",
+  "active": "dc15160c87c5bdc9",
   "lastOpenFiles": [
+    "Characters/NPC/Villains/Jeggred Baenre.md",
+    "Characters/PC/El Condor.md",
     "Story/Diary/1-100/Day 85.md",
+    "Sessions/Session 116.md",
+    "Characters/NPC/Villains/Jarlaxle Baenre.md",
+    "Sessions/Session 115.md",
     "Story/Plots/S01-The Baenre Conspiracy/S01-The Baenre Conspiracy.md",
     "Characters/PC/Kholwin.md",
-    "Characters/PC/El Condor.md",
-    "Sessions/Session 115.md",
     "Sessions/Session 114.md",
     "Sessions/Session 113.md",
-    "Characters/NPC/Villains/Jarlaxle Baenre.md",
     "Sessions/Session 112.md",
     "Characters/PC/Raith.md",
     "Story/Diary/1-100/Day 84.md",
@@ -173,8 +239,6 @@
     "Sessions/Session 72.md",
     "Sessions/Session 110.md",
     "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Temple of Kelemvor.md",
-    "Characters/NPC/Neutral/Cora.md",
-    "Story/Plots/S01-The Baenre Conspiracy/S01.02-The Maiden, The Mother, The Crone/S01.02.06-Gauntlgrym/S01.02.06.03-Guests at the Feast.md",
     "Attachments/items/non-nungible-trident.webp",
     "Attachments/npc/asha-vandree/asha-vandree-portrait.webp",
     "Attachments/npc/nundro-rockseeker/nundro-rockseeker-token.png",
