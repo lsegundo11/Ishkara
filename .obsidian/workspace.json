@@ -4,11 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "de7afbe2caa0ce3e",
+        "id": "402628192964b521",
         "type": "tabs",
+        "dimension": 39.02439024390244,
         "children": [
           {
-            "id": "6970be90cd7d34e4",
+            "id": "eb281d76a34bf3d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Story/Diary/1-100/Day 85.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Day 85"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4a6c72c4c28dba2b",
+        "type": "tabs",
+        "dimension": 60.97560975609756,
+        "children": [
+          {
+            "id": "05fee56fe40539ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 117.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Session 117"
+            }
+          },
+          {
+            "id": "9d57ef716d895279",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,10 +52,13 @@
                 "file": "Characters/NPC/Villains/Jarlaxle Baenre.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Jarlaxle Baenre"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,8 +77,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +96,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +106,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 200
   },
   "right": {
     "id": "aacc79ab6df312d1",
@@ -93,7 +139,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Jarlaxle Baenre"
             }
           },
           {
@@ -104,7 +152,9 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -112,9 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Characters/NPC/Villains/Jarlaxle Baenre.md"
-              }
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
             }
           },
           {
@@ -126,7 +176,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -134,9 +186,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Characters/NPC/Villains/Jarlaxle Baenre.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -156,14 +208,15 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "6970be90cd7d34e4",
+  "active": "9d57ef716d895279",
   "lastOpenFiles": [
-    "Story/Diary/1-100/Day 84.md",
-    "Characters/NPC/Villains/Jeggred Baenre.md",
+    "Sessions/Session 117.md",
     "Sessions/Session 116.md",
     "Story/Diary/1-100/Day 85.md",
-    "Characters/PC/El Condor.md",
     "Characters/NPC/Villains/Jarlaxle Baenre.md",
+    "Story/Diary/1-100/Day 84.md",
+    "Characters/NPC/Villains/Jeggred Baenre.md",
+    "Characters/PC/El Condor.md",
     "Sessions/Session 115.md",
     "Story/Plots/S01-The Baenre Conspiracy/S01-The Baenre Conspiracy.md",
     "Characters/PC/Kholwin.md",
@@ -183,7 +236,6 @@
     "Sessions/Session 109.md",
     "Sessions/Session 72.md",
     "Sessions/Session 110.md",
-    "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Temple of Kelemvor.md",
     "Attachments/items/non-nungible-trident.webp",
     "Attachments/npc/asha-vandree/asha-vandree-portrait.webp",
     "Attachments/npc/nundro-rockseeker/nundro-rockseeker-token.png",
