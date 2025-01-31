@@ -4,61 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "397b6a8323b27563",
+        "id": "de7afbe2caa0ce3e",
         "type": "tabs",
-        "dimension": 50.910364145658264,
         "children": [
           {
-            "id": "dc15160c87c5bdc9",
+            "id": "6970be90cd7d34e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Diary/1-100/Day 85.md",
-                "mode": "source",
+                "file": "Characters/NPC/Villains/Jarlaxle Baenre.md",
+                "mode": "preview",
                 "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Day 85"
+              }
             }
           }
         ]
-      },
-      {
-        "id": "16776411b60372b0",
-        "type": "tabs",
-        "dimension": 49.089635854341736,
-        "children": [
-          {
-            "id": "4e821f9374ae3d60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Session 116.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Session 116"
-            }
-          },
-          {
-            "id": "aea129d91697ec4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/NPC/Villains/Jeggred Baenre.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Jeggred Baenre"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,9 +39,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              }
             }
           },
           {
@@ -95,9 +54,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -105,9 +62,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
@@ -130,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/Diary/1-100/Day 85.md",
+                "file": "Characters/NPC/Villains/Jarlaxle Baenre.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,9 +93,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Day 85"
+              }
             }
           },
           {
@@ -151,9 +104,7 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              }
             }
           },
           {
@@ -162,10 +113,8 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Story/Diary/1-100/Day 85.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for Day 85"
+                "file": "Characters/NPC/Villains/Jarlaxle Baenre.md"
+              }
             }
           },
           {
@@ -177,9 +126,7 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              }
             }
           },
           {
@@ -188,10 +135,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/Diary/1-100/Day 85.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Day 85"
+                "file": "Characters/NPC/Villains/Jarlaxle Baenre.md"
+              }
             }
           }
         ]
@@ -211,12 +156,13 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "dc15160c87c5bdc9",
+  "active": "6970be90cd7d34e4",
   "lastOpenFiles": [
+    "Story/Diary/1-100/Day 84.md",
     "Characters/NPC/Villains/Jeggred Baenre.md",
-    "Characters/PC/El Condor.md",
-    "Story/Diary/1-100/Day 85.md",
     "Sessions/Session 116.md",
+    "Story/Diary/1-100/Day 85.md",
+    "Characters/PC/El Condor.md",
     "Characters/NPC/Villains/Jarlaxle Baenre.md",
     "Sessions/Session 115.md",
     "Story/Plots/S01-The Baenre Conspiracy/S01-The Baenre Conspiracy.md",
@@ -225,7 +171,6 @@
     "Sessions/Session 113.md",
     "Sessions/Session 112.md",
     "Characters/PC/Raith.md",
-    "Story/Diary/1-100/Day 84.md",
     "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Gauntlgrym.md",
     "Sessions/Session 111.md",
     "Characters/NPC/Villains/Rado.md",
