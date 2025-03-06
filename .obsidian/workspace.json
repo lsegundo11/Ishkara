@@ -6,7 +6,7 @@
       {
         "id": "402628192964b521",
         "type": "tabs",
-        "dimension": 39.02439024390244,
+        "dimension": 46.070460704607044,
         "children": [
           {
             "id": "eb281d76a34bf3d7",
@@ -27,7 +27,7 @@
       {
         "id": "4a6c72c4c28dba2b",
         "type": "tabs",
-        "dimension": 60.97560975609756,
+        "dimension": 53.929539295392956,
         "children": [
           {
             "id": "05fee56fe40539ef",
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 117.md",
+                "file": "Sessions/Session 118.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Session 117"
+              "title": "Session 118"
             }
           },
           {
@@ -210,10 +210,11 @@
   },
   "active": "9d57ef716d895279",
   "lastOpenFiles": [
+    "Sessions/Session 118.md",
+    "Characters/NPC/Villains/Jarlaxle Baenre.md",
     "Sessions/Session 117.md",
     "Sessions/Session 116.md",
     "Story/Diary/1-100/Day 85.md",
-    "Characters/NPC/Villains/Jarlaxle Baenre.md",
     "Story/Diary/1-100/Day 84.md",
     "Characters/NPC/Villains/Jeggred Baenre.md",
     "Characters/PC/El Condor.md",
@@ -235,7 +236,6 @@
     "Characters/PC/Caldazar.md",
     "Sessions/Session 109.md",
     "Sessions/Session 72.md",
-    "Sessions/Session 110.md",
     "Attachments/items/non-nungible-trident.webp",
     "Attachments/npc/asha-vandree/asha-vandree-portrait.webp",
     "Attachments/npc/nundro-rockseeker/nundro-rockseeker-token.png",
