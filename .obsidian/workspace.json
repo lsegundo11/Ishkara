@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9932cb49a6ee1127",
+        "id": "50a22d74af64e097",
         "type": "tabs",
         "children": [
           {
-            "id": "135c80e965c27d95",
+            "id": "5e8fe3c1b0883190",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 118.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Session 118"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sessions/Session 118.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Session 118"
             }
           },
           {
@@ -166,11 +171,12 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "135c80e965c27d95",
+  "active": "5e8fe3c1b0883190",
   "lastOpenFiles": [
+    "Story/Diary/1-100/Day 85.md",
+    "Characters/PC/Raith.md",
     "Sessions/Session 118.md",
     "Characters/NPC/Villains/Rado.md",
-    "Story/Diary/1-100/Day 85.md",
     "Sessions/Session 119.md",
     "Characters/NPC/Villains/Jarlaxle Baenre.md",
     "Sessions/Session 117.md",
@@ -184,7 +190,6 @@
     "Sessions/Session 114.md",
     "Sessions/Session 113.md",
     "Sessions/Session 112.md",
-    "Characters/PC/Raith.md",
     "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Gauntlgrym.md",
     "Sessions/Session 111.md",
     "World/Places/Vestal/Ishkara/The Underdark/Gauntlgrym/Rado's Enchanted Caducetorium.md",
