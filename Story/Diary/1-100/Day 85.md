@@ -48,7 +48,8 @@
 - here we go!
     - hes grappled by [[El Condor]]
     - fucking up [[Raith]]
-    - 
+    - [[Rado]] is down yo! sleeping like a baby and on the floor
+
 ## EVENING
 
 ## MIDNIGHT
