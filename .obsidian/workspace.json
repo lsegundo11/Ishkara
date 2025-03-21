@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "50a22d74af64e097",
+        "id": "c453a2fd569f14a6",
         "type": "tabs",
         "children": [
           {
-            "id": "5e8fe3c1b0883190",
+            "id": "ac46d4547a936222",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Session 118.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Session 118"
+              "title": "New tab"
             }
           }
         ]
@@ -41,7 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dantr",
+                "query": "zhen",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -74,11 +70,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 311.5
   },
   "right": {
     "id": "aacc79ab6df312d1",
@@ -94,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 118.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 118"
+              "title": "Backlinks"
             }
           },
           {
@@ -171,14 +167,16 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "5e8fe3c1b0883190",
+  "active": "ac46d4547a936222",
   "lastOpenFiles": [
-    "Story/Diary/1-100/Day 85.md",
-    "Characters/PC/Raith.md",
     "Sessions/Session 118.md",
-    "Characters/NPC/Villains/Rado.md",
     "Sessions/Session 119.md",
+    "Story/Diary/1-100/Day 85.md",
+    "World/Politics/Zhentarim/Zhentarim.md",
+    "Characters/NPC/Villains/Halia Thornton.md",
     "Characters/NPC/Villains/Jarlaxle Baenre.md",
+    "Characters/PC/Raith.md",
+    "Characters/NPC/Villains/Rado.md",
     "Sessions/Session 117.md",
     "Sessions/Session 116.md",
     "Story/Diary/1-100/Day 84.md",
@@ -197,8 +195,6 @@
     "Characters/PC/Urimus.md",
     "Characters/PC/Theoc Shadowsbane.md",
     "Characters/PC/Ikros Silenttale.md",
-    "Characters/PC/Caldazar.md",
-    "Sessions/Session 109.md",
     "Attachments/items/non-nungible-trident.webp",
     "Attachments/npc/asha-vandree/asha-vandree-portrait.webp",
     "Attachments/npc/nundro-rockseeker/nundro-rockseeker-token.png",
